@@ -1,0 +1,349 @@
+{
+  "star_rating": {
+    "current": "2.29 out of 5",
+    "count": "433,393 ratings"
+  },
+  "chart": {
+    "chart_ts": "134071410000000000",
+    "image_src": "https://itsdcdn.com/us/charts/chartsvg/740/370/134071410000000000/685E5A5D-9439-4BEE-9782-9BFA429E5DFF.svg",
+    "alt_time": "11/09/2025 05:50"
+  },
+  "most_reported_problems": [
+    {
+      "label": "Internet",
+      "percent": 63
+    },
+    {
+      "label": "Wi-fi",
+      "percent": 12
+    },
+    {
+      "label": "Total Blackout",
+      "percent": 9
+    },
+    {
+      "label": "TV",
+      "percent": 9
+    },
+    {
+      "label": "E-mail",
+      "percent": 3
+    },
+    {
+      "label": "Phone",
+      "percent": 3
+    }
+  ],
+  "latest_reports": [
+    {
+      "city": "Orlando",
+      "reason": "Internet",
+      "time_human": "4 minutes ago",
+      "time_iso": "2025-11-09T05:43:46-04:00"
+    },
+    {
+      "city": "Lakewood",
+      "reason": "Internet",
+      "time_human": "4 minutes ago",
+      "time_iso": "2025-11-09T05:43:10-04:00"
+    },
+    {
+      "city": "Elizabeth City",
+      "reason": "Internet",
+      "time_human": "12 minutes ago",
+      "time_iso": "2025-11-09T05:35:06-04:00"
+    },
+    {
+      "city": "Pleasant Hill",
+      "reason": "Internet",
+      "time_human": "17 minutes ago",
+      "time_iso": "2025-11-09T05:31:01-04:00"
+    },
+    {
+      "city": "Columbus",
+      "reason": "Internet",
+      "time_human": "25 minutes ago",
+      "time_iso": "2025-11-09T05:22:17-04:00"
+    },
+    {
+      "city": "La Crosse",
+      "reason": "TV",
+      "time_human": "57 minutes ago",
+      "time_iso": "2025-11-09T04:50:14-04:00"
+    }
+  ],
+  "issues_reports": [
+    {
+      "user": "Saylor Moon (PSN: KapNKhronic420)",
+      "text": "@GetSpectrum @Ask_Spectrum \n\nI am seriously considering switching to @SpaceX 's Starlink service cause you guys have so much down time that I am sure a class action lawsuit would show you are being criminally negligent with upkeep of your network. \n\nYou guys might wanna fix this.",
+      "time_iso": "2025-11-09T05:41:32-04:00"
+    },
+    {
+      "user": "Keith\u2122 \ud83d\udd25\ud83d\udcbb\ud83c\udf0e",
+      "text": "it's never a good sign when TWC is showing the video feed from the overpass you're hunkered down next to (at a hotel but still) scurry stuff here.",
+      "time_iso": "2025-11-09T05:40:48-04:00"
+    },
+    {
+      "user": "ChvoticTwilight_VT (Debut TBA)",
+      "text": "@Ask_Spectrum I have none of those cause it's not my service.",
+      "time_iso": "2025-11-09T05:39:10-04:00"
+    },
+    {
+      "user": "Chris Shifflett",
+      "text": "@goldammer6969 @GetSpectrum @Ask_Spectrum your internet is so bad this man here has to run a 1000ft ethernet cable down his street to his local McDonalds just to be able to play games! get your **** together",
+      "time_iso": "2025-11-09T05:36:01-04:00"
+    },
+    {
+      "user": "Thomas Powell.\ud83e\uddfb\ud83d\udc34\ud83d\udca9",
+      "text": "@BenjaminCook @Ask_Spectrum @GetSpectrum My only resolution was having a less bad option (which somehow AT&T Fiber qualified?!) Nearly daily 3PM outages, which was generally which I\u2019d be either running a meeting or meeting with my manager at the time.",
+      "time_iso": "2025-11-09T05:32:51-04:00"
+    },
+    {
+      "user": "patricia",
+      "text": "BRO OVERFUCKINGTIME AND MY INTERNET DISCONNECTS. **** YOUR ****** *** SERVICE @Ask_Spectrum @GetSpectrum",
+      "time_iso": "2025-11-09T05:31:06-04:00"
+    },
+    {
+      "user": "Aaron Markham",
+      "text": "@GetSpectrum pay over $100 a month for a service that doesn\u2019t work 90% of the time, worst internet provider on the planet",
+      "time_iso": "2025-11-09T05:30:56-04:00"
+    },
+    {
+      "user": "Scott Maclean",
+      "text": "@Ask_Spectrum Oh, I did.  And he managed to downgrade my service and somehow still charge me what I was paying per month last year. When I asked why my new per-month payment was $50 a month _higher_ than the rate on your website, I got something about fees, taxes, etc. Disgraceful.",
+      "time_iso": "2025-11-09T05:27:07-04:00"
+    },
+    {
+      "user": "lizzie",
+      "text": "@AnnaIWright @HouseofCommons It is long past time the jeering, shouting and laughing was stopped, not allowed, PM questions like ALL HOC\u2019s/HOL\u2019s time is SERIOUS, it should never be treated like a night out at a comedians convention! The PM and his MP\u2019s prove every time their moves move they care 0% for TWC\u2019s",
+      "time_iso": "2025-11-09T05:26:56-04:00"
+    },
+    {
+      "user": "\ud835\udd6f\ud835\udd8a\ud835\udd8a",
+      "text": "Everyone don\u2019t get @GetSpectrum their service sucks & their customer service representatives are very unknowledgeable",
+      "time_iso": "2025-11-09T05:24:39-04:00"
+    },
+    {
+      "user": "mike brucato",
+      "text": "@AriDrennen Get this network off my platform @Ask_Spectrum",
+      "time_iso": "2025-11-09T05:24:18-04:00"
+    },
+    {
+      "user": "Peppermint Petty",
+      "text": "@Ask_Spectrum  these outages are frequent. What\u2019s tea? We pay for a service that\u2019s interrupted daily",
+      "time_iso": "2025-11-09T05:24:14-04:00"
+    },
+    {
+      "user": "duskino Fo(u)r YuU \ud83c\udf65\u2668\ufe0f",
+      "text": "Day 3 of really ****** internet from @Ask_Spectrum. Confirmed with my neighbor and we still having issues. Spectrum just going to ask me to DM them.",
+      "time_iso": "2025-11-09T05:21:30-04:00"
+    },
+    {
+      "user": "duskino Fo(u)r YuU \ud83c\udf65\u2668\ufe0f",
+      "text": "@Ask_Spectrum Can you explain how DMing you would help? You guys use the same 10 automatic templates and never answer anything publicly",
+      "time_iso": "2025-11-09T05:21:21-04:00"
+    },
+    {
+      "user": "Adamant",
+      "text": "@GetSpectrum give me back my internet you slimy *****. Tired of having this **** go out left right and center. Paying for **** that I don\u2019t even have half the time at this point.",
+      "time_iso": "2025-11-09T05:19:31-04:00"
+    },
+    {
+      "user": "Scott Maclean",
+      "text": "@GetSpectrum Every ******* year your price goes up and every ******* year I have to reduce my service to get back to what I was paying originally. If there was literally any other ******* option, I'd be using it.",
+      "time_iso": "2025-11-09T05:19:10-04:00"
+    },
+    {
+      "user": "John McCarthy",
+      "text": "@Ask_Spectrum Spectrum is out once again. No Internet service for the last several days intermittently. My account number is 926944402. I pay auto payment $127.07 monthly for extremely poor service. I am at least due a credit.  AT&T is getting a lot closer",
+      "time_iso": "2025-11-09T05:08:38-04:00"
+    },
+    {
+      "user": "Saylor Moon (PSN: KapNKhronic420)",
+      "text": "@Ask_Spectrum Lol. You guys never reply, literally never, gonna switch to a new service provider in the coming month, sick of your dog **** service.\n\nYour techs, take hours to fix simple issues, and you morons wanted to send a tech and charge us for your fault on your end.\n\nPiss off.",
+      "time_iso": "2025-11-09T05:08:18-04:00"
+    },
+    {
+      "user": "GLEP",
+      "text": "@Ask_Spectrum \u201cHi I\u2019m here to return my spectrum equipment \u201c \u201cspectrum just told me drop it off here\u201d \ud83e\udd13\ud83d\udc75\ud83c\udffb\ud83d\udc74\ud83c\udffc **** OFF SPECTRUM",
+      "time_iso": "2025-11-09T05:05:46-04:00"
+    },
+    {
+      "user": "(((Francis Markey))) \ud83c\uddfa\ud83c\udde6 \ud83c\udf3b",
+      "text": "@Ask_Spectrum are there any issues in Goshen, ny? My wifi is much slower than normal and my tv is only white noise even after a reboot of the box",
+      "time_iso": "2025-11-09T05:00:36-04:00"
+    },
+    {
+      "user": "\u65b0\u9bae\u306a \ud83e\udd77\ud83c\udffd",
+      "text": "Spectrum has been down for like 12 hours down \ud83d\ude24 get it together @Ask_Spectrum",
+      "time_iso": "2025-11-09T05:00:06-04:00"
+    },
+    {
+      "user": "Ben Cook",
+      "text": "Hey @Ask_Spectrum @GetSpectrum we're in our 4th outage in the last couple of weeks. Is there any way we can escalate to avoid having these keep repeating themselves?",
+      "time_iso": "2025-11-09T04:59:37-04:00"
+    },
+    {
+      "user": "\ud835\udd6f\ud835\udd8a\ud835\udd8a",
+      "text": "@Ask_Spectrum your over the phone reps are not only unprofessional but very dumb! When ******** is this power outage going to last?! You\u2019re management team members are stupid as well",
+      "time_iso": "2025-11-09T04:58:51-04:00"
+    },
+    {
+      "user": "\ud83c\uddfa\ud83c\uddf8Re-sister\ud83c\uddfa\ud83c\udde6",
+      "text": "@DebraToTheLeft I was having the same thing earlier today, until I disconnected from Wi-Fi. I have had the same issue before and I have @Ask_Spectrum",
+      "time_iso": "2025-11-09T04:57:29-04:00"
+    },
+    {
+      "user": "Jimmie Webb",
+      "text": "@Ask_Spectrum what a total dumpster company. Every two weeks the internet is out for \u201cplanned maintenance\u201d same tonight\u2026 this has got to stop can\u2019t wait to cancel this **** isp",
+      "time_iso": "2025-11-09T04:55:52-04:00"
+    },
+    {
+      "user": "Saner",
+      "text": "@Ask_Spectrum @ittssACE How come y\u2019all never respond to me but the one time this foo tweets y\u2019all respond smh .",
+      "time_iso": "2025-11-09T04:55:13-04:00"
+    },
+    {
+      "user": "Unpaid Funyuns ad",
+      "text": "@GetSpectrum @SpectrumA11y Holy ****** by the fine print! If you buy a brand new @samsung from Spectrum and have problems with it after 14 days they're going to tell you to go piss up a rope and try to replace it with a used one",
+      "time_iso": "2025-11-09T04:54:58-04:00"
+    },
+    {
+      "user": "Renadine",
+      "text": "@Ask_Spectrum A customer service representative told me there was a nationwide spectrum outage\u2026 Is that correct or was he just trying to get me off the phone?",
+      "time_iso": "2025-11-09T04:52:41-04:00"
+    },
+    {
+      "user": "Danielle Driscoll",
+      "text": "@Ask_Spectrum hi there! I tried to reset my internet due to a work VPN issue and now my internet won\u2019t turn back on. Help? \ud83d\ude2b",
+      "time_iso": "2025-11-09T04:49:34-04:00"
+    },
+    {
+      "user": "RAYTRILL ART \ud83e\udd18\ud83c\udffc",
+      "text": "i beg you PLEASE unless you absolutely have to... do not EVER use @GetSpectrum literally the worst company ever",
+      "time_iso": "2025-11-09T04:49:12-04:00"
+    }
+  ],
+  "last_15_days_status": [
+    {
+      "location": "Dallas, TX",
+      "reports": 1166
+    },
+    {
+      "location": "Los Angeles, CA",
+      "reports": 1022
+    },
+    {
+      "location": "Charlotte, NC",
+      "reports": 809
+    },
+    {
+      "location": "Orlando, FL",
+      "reports": 598
+    },
+    {
+      "location": "St. Louis, MO",
+      "reports": 521
+    },
+    {
+      "location": "Columbus, OH",
+      "reports": 505
+    },
+    {
+      "location": "New York City, NY",
+      "reports": 446
+    },
+    {
+      "location": "Fort Worth, TX",
+      "reports": 340
+    },
+    {
+      "location": "Indianapolis, IN",
+      "reports": 321
+    },
+    {
+      "location": "Cleveland, OH",
+      "reports": 318
+    },
+    {
+      "location": "San Antonio, TX",
+      "reports": 314
+    },
+    {
+      "location": "Tampa, FL",
+      "reports": 293
+    },
+    {
+      "location": "Chicago, IL",
+      "reports": 281
+    },
+    {
+      "location": "Detroit, MI",
+      "reports": 275
+    },
+    {
+      "location": "Milwaukee, WI",
+      "reports": 273
+    },
+    {
+      "location": "Austin, TX",
+      "reports": 269
+    },
+    {
+      "location": "Atlanta, GA",
+      "reports": 250
+    },
+    {
+      "location": "Buffalo, NY",
+      "reports": 233
+    },
+    {
+      "location": "Cincinnati, OH",
+      "reports": 233
+    },
+    {
+      "location": "Minneapolis, MN",
+      "reports": 219
+    },
+    {
+      "location": "Honolulu, HI",
+      "reports": 177
+    },
+    {
+      "location": "Denver, CO",
+      "reports": 164
+    },
+    {
+      "location": "Raleigh, NC",
+      "reports": 156
+    },
+    {
+      "location": "Alpharetta, GA",
+      "reports": 147
+    },
+    {
+      "location": "Louisville, KY",
+      "reports": 143
+    },
+    {
+      "location": "Brooklyn, NY",
+      "reports": 142
+    },
+    {
+      "location": "Rochester, NY",
+      "reports": 140
+    },
+    {
+      "location": "Syracuse, NY",
+      "reports": 137
+    },
+    {
+      "location": "Anaheim, CA",
+      "reports": 132
+    },
+    {
+      "location": "Dayton, OH",
+      "reports": 122
+    }
+  ]
+}

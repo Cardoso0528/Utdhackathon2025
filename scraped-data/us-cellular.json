@@ -1,0 +1,350 @@
+{
+  "star_rating": {
+    "current": "2.58 out of 5",
+    "count": "3,135 ratings"
+  },
+  "chart": {
+    "chart_ts": "134071410000000000",
+    "image_src": "https://itsdcdn.com/us/charts/chartsvg/740/370/134071410000000000/0507852b-1a5a-4e8b-b2c0-fc2a574603c2.svg",
+    "alt_time": "11/09/2025 05:50"
+  },
+  "most_reported_problems": [
+    {
+      "label": "Internet",
+      "percent": 44
+    },
+    {
+      "label": "Phone",
+      "percent": 40
+    },
+    {
+      "label": "Wi-fi",
+      "percent": 7
+    },
+    {
+      "label": "Total Blackout",
+      "percent": 5
+    },
+    {
+      "label": "E-mail",
+      "percent": 2
+    },
+    {
+      "label": "TV(%)",
+      "percent": null
+    }
+  ],
+  "latest_reports": [
+    {
+      "city": "Ankeny",
+      "reason": "Internet",
+      "time_human": "9 hours ago",
+      "time_iso": "2025-11-08T20:45:54-04:00"
+    },
+    {
+      "city": "Charlotte",
+      "reason": "Internet",
+      "time_human": "2 days ago",
+      "time_iso": "2025-11-07T13:58:06-04:00"
+    },
+    {
+      "city": "Milan",
+      "reason": "Phone",
+      "time_human": "2 days ago",
+      "time_iso": "2025-11-07T12:12:09-04:00"
+    },
+    {
+      "city": "San Jose",
+      "reason": "Internet",
+      "time_human": "2 days ago",
+      "time_iso": "2025-11-06T20:50:23-04:00"
+    },
+    {
+      "city": "Cedar Rapids",
+      "reason": "Phone",
+      "time_human": "3 days ago",
+      "time_iso": "2025-11-05T15:37:17-04:00"
+    },
+    {
+      "city": "Tulsa",
+      "reason": "Phone",
+      "time_human": "3 days ago",
+      "time_iso": "2025-11-05T14:41:20-04:00"
+    }
+  ],
+  "issues_reports": [
+    {
+      "user": "Matt Swanson",
+      "text": "Anybody else\u2019s @UScellular service just quit working?",
+      "time_iso": "2025-11-09T05:42:37-04:00"
+    },
+    {
+      "user": "chuck anthoine",
+      "text": "@DarthOtten13 @UScellular They have horrid roaming I bet that is the problem here in Maine they work leave Maine they are ***",
+      "time_iso": "2025-11-09T05:42:32-04:00"
+    },
+    {
+      "user": "Gene Cotter",
+      "text": "@UScellular None of my numbers affiliated with my account are able to make or receive calls. Online chat is down. What gives?",
+      "time_iso": "2025-11-09T05:41:31-04:00",
+      "location": "Lincoln, Nebraska"
+    },
+    {
+      "user": "Barb F.",
+      "text": "@uscellular what is going on with your network in WI #uscellularproblems",
+      "time_iso": "2025-11-09T05:40:29-04:00"
+    },
+    {
+      "user": "Forest Condon",
+      "text": "@UScellular @BGCA_Clubs My service and many otherts is not working right now. I tried private messaging with no response. I cant even call customer service with no phone service.",
+      "time_iso": "2025-11-09T05:37:48-04:00"
+    },
+    {
+      "user": "Blake Swanson",
+      "text": "@MaxROIFarmer @starkj80 @UScellular Sounds about right.  I worked for them 10 years, that\u2019s pretty much the standard answer.  For it to affect service across several states......yeah, not accurate.  Just tell us \u201cwe\u2019re aware, unsure, working on it\u201d",
+      "time_iso": "2025-11-09T05:35:46-04:00"
+    },
+    {
+      "user": "Matt Swanson",
+      "text": "@starkj80 @UScellular Sounds like it's a widespread issue",
+      "time_iso": "2025-11-09T05:32:17-04:00"
+    },
+    {
+      "user": "chuck anthoine",
+      "text": "@DarthOtten13 @UScellular Man this is such a common problem us cellular",
+      "time_iso": "2025-11-09T05:31:48-04:00"
+    },
+    {
+      "user": "Sunbird",
+      "text": "@UScellular 53186. I already have a ticket open for the other issues I've been having since February",
+      "time_iso": "2025-11-09T05:29:29-04:00"
+    },
+    {
+      "user": "Cathy Cook \ud83c\uddfa\ud83c\uddf8",
+      "text": "@UScellular Yes I did.  I read that there is a problem where I live.",
+      "time_iso": "2025-11-09T05:28:19-04:00"
+    },
+    {
+      "user": "Annie Shoes",
+      "text": "@UScellular is there an outage in the 53222 area? No calls are going through on mine or my parents\u2019 phones.",
+      "time_iso": "2025-11-09T05:27:20-04:00"
+    },
+    {
+      "user": "Ryan",
+      "text": "@UScellular fix your ****",
+      "time_iso": "2025-11-09T05:26:44-04:00"
+    },
+    {
+      "user": "Blake Swanson",
+      "text": "@MaxROIFarmer @starkj80 @UScellular Iowa too.  Unfortunately my work phone is on their network too, very much looking forward to getting cussed out by countless people when my phone starts dinging all the voicemails",
+      "time_iso": "2025-11-09T05:22:21-04:00"
+    },
+    {
+      "user": "Matt Swanson",
+      "text": "@blake1swanson @starkj80 @UScellular I was told they are having issues with multiple towers over a pretty good area",
+      "time_iso": "2025-11-09T05:21:41-04:00"
+    },
+    {
+      "user": "Cathy Cook \ud83c\uddfa\ud83c\uddf8",
+      "text": "@UScellular I cannot make a phone call, but can receive calls and have no problem with texts.  I try to call 611 and I get a message of error code 408.",
+      "time_iso": "2025-11-09T05:20:21-04:00"
+    },
+    {
+      "user": "Bug City \ud83c\udf3d",
+      "text": "@UScellular @BGCA_Clubs Yo why can't I contact anybody right now? My cell service isn't working",
+      "time_iso": "2025-11-09T05:18:21-04:00"
+    },
+    {
+      "user": "Blake Swanson",
+      "text": "@UScellular @Big_churp @UScellular you clearly have a network issue in WI.  My personal and work phones are on your network and not able to place calls.  Texts work.  My wife on the other side of town is experiencing the same thing",
+      "time_iso": "2025-11-09T05:11:32-04:00"
+    },
+    {
+      "user": "Cathy Cook \ud83c\uddfa\ud83c\uddf8",
+      "text": "@UScellular Yes I did.  I read that there is a problem where I live.",
+      "time_iso": "2025-11-09T05:08:47-04:00"
+    },
+    {
+      "user": "Blake Swanson",
+      "text": "@UScellular @Big_churp @UScellular you clearly have a network issue in WI.  My personal and work phones are on your network and not able to place calls.  Texts work.  My wife on the other side of town is experiencing the same thing",
+      "time_iso": "2025-11-09T05:06:20-04:00"
+    },
+    {
+      "user": "Roberto Martinez",
+      "text": "@UScellular when is phone service going to be restored in Metro Milwaukee?",
+      "time_iso": "2025-11-09T05:05:56-04:00"
+    },
+    {
+      "user": "Sunbird",
+      "text": "@FromMke2Nsh @UScellular Sucks doesn't it?",
+      "time_iso": "2025-11-09T05:04:15-04:00"
+    },
+    {
+      "user": "SaintBenjemen",
+      "text": "@UScellular @_jamane_ Yo log off and fix your network please",
+      "time_iso": "2025-11-09T04:58:58-04:00"
+    },
+    {
+      "user": "Darth Otten",
+      "text": "@Chuckanthoine @UScellular It\u2019s confusing that it can be 2021 and I can\u2019t have Dell service EVERYWHERE.",
+      "time_iso": "2025-11-09T04:58:38-04:00"
+    },
+    {
+      "user": "Forest Condon",
+      "text": "@UScellularCares @GeneCotter @UScellular i cant make calls either, i live in grafton Wisconsin and keeps saying network is down and when someone calls me it says my phone isnt accepting calls. What the HELL is going on. i need my phone working.",
+      "time_iso": "2025-11-09T04:58:25-04:00"
+    },
+    {
+      "user": "Matt Swanson",
+      "text": "@JenLArnold74 @DettmeringDrew @UScellular Tower issues it sounds like, starting to sound like the whole network is jacked up, OK to WI so far in those who've responded to my initial tweet",
+      "time_iso": "2025-11-09T04:52:45-04:00"
+    },
+    {
+      "user": "Darth Otten",
+      "text": "If you are getting new cell service and it comes down to yelling out of your front door or @UScellular...just yell out the door. Better coverage that way.",
+      "time_iso": "2025-11-09T04:52:35-04:00"
+    },
+    {
+      "user": "DethByCow",
+      "text": "@UScellularCares @UScellular Y\u2019all had six months to figure this out. Why should I think you\u2019ll magically fix it now???",
+      "time_iso": "2025-11-09T04:51:30-04:00"
+    },
+    {
+      "user": "Brian Lukaszewicz \ud83c\uddfa\ud83c\uddf8",
+      "text": "@UScellular spotty/no service in the Milwaukee area (53209). Is this being worked on?",
+      "time_iso": "2025-11-09T04:50:56-04:00"
+    },
+    {
+      "user": "Ryan",
+      "text": "@uscellular fix your **** peasants",
+      "time_iso": "2025-11-09T04:48:31-04:00"
+    },
+    {
+      "user": "Margo Lee \ud83c\udf4e\ud83d\udc69\ud83c\udffb\u200d\ud83c\udf3e\ud83e\uddba",
+      "text": "@USCellular alerted customers that due to their work upgrading to 5G we would experience \"an interruption\" within 24-48 hours ago. That was last week and our service remains non-functional. Including the hotspot provided by the school, for schoolwork.",
+      "time_iso": "2025-11-09T04:48:26-04:00"
+    }
+  ],
+  "last_15_days_status": [
+    {
+      "location": "Cedar Rapids, IA",
+      "reports": 24
+    },
+    {
+      "location": "Madison, WI",
+      "reports": 10
+    },
+    {
+      "location": "Charlotte, NC",
+      "reports": 5
+    },
+    {
+      "location": "Chicago, IL",
+      "reports": 4
+    },
+    {
+      "location": "Minneapolis, MN",
+      "reports": 3
+    },
+    {
+      "location": "Waverly, IA",
+      "reports": 3
+    },
+    {
+      "location": "Milwaukee, WI",
+      "reports": 2
+    },
+    {
+      "location": "Peoria, IL",
+      "reports": 2
+    },
+    {
+      "location": "Sun Prairie, WI",
+      "reports": 2
+    },
+    {
+      "location": "Lewiston, ME",
+      "reports": 2
+    },
+    {
+      "location": "Ankeny, IA",
+      "reports": 1
+    },
+    {
+      "location": "Milan, IL",
+      "reports": 1
+    },
+    {
+      "location": "San Jose, CA",
+      "reports": 1
+    },
+    {
+      "location": "Tulsa, OK",
+      "reports": 1
+    },
+    {
+      "location": "Platteville, WI",
+      "reports": 1
+    },
+    {
+      "location": "Hopkinsville, KY",
+      "reports": 1
+    },
+    {
+      "location": "Oliver Springs, TN",
+      "reports": 1
+    },
+    {
+      "location": "Lincoln City, OR",
+      "reports": 1
+    },
+    {
+      "location": "La Salle, IL",
+      "reports": 1
+    },
+    {
+      "location": "Peru, IL",
+      "reports": 1
+    },
+    {
+      "location": "Bloomington, IL",
+      "reports": 1
+    },
+    {
+      "location": "Lakeview, OR",
+      "reports": 1
+    },
+    {
+      "location": "Omaha, NE",
+      "reports": 1
+    },
+    {
+      "location": "West Branch, IA",
+      "reports": 1
+    },
+    {
+      "location": "Saint Albans, WV",
+      "reports": 1
+    },
+    {
+      "location": "Newberg, OR",
+      "reports": 1
+    },
+    {
+      "location": "Fox River Grove, IL",
+      "reports": 1
+    },
+    {
+      "location": "Stevens Point, WI",
+      "reports": 1
+    },
+    {
+      "location": "San Diego, CA",
+      "reports": 1
+    },
+    {
+      "location": "Whitewater, WI",
+      "reports": 1
+    }
+  ]
+}

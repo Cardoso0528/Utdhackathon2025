@@ -1,0 +1,349 @@
+{
+  "star_rating": {
+    "current": "2.47 out of 5",
+    "count": "83,262 ratings"
+  },
+  "chart": {
+    "chart_ts": "134071410000000000",
+    "image_src": "https://itsdcdn.com/us/charts/chartsvg/740/370/134071410000000000/E6C587BD-2964-4C28-9DF1-E4A663F9CC3B.svg",
+    "alt_time": "11/09/2025 05:50"
+  },
+  "most_reported_problems": [
+    {
+      "label": "Phone",
+      "percent": 53
+    },
+    {
+      "label": "Internet",
+      "percent": 27
+    },
+    {
+      "label": "Total Blackout",
+      "percent": 7
+    },
+    {
+      "label": "Wi-fi",
+      "percent": 6
+    },
+    {
+      "label": "E-mail",
+      "percent": 4
+    },
+    {
+      "label": "TV",
+      "percent": 3
+    }
+  ],
+  "latest_reports": [
+    {
+      "city": "Laguna Hills",
+      "reason": "Internet",
+      "time_human": "4 hours ago",
+      "time_iso": "2025-11-09T01:07:55-04:00"
+    },
+    {
+      "city": "Laurel",
+      "reason": "E-mail",
+      "time_human": "8 hours ago",
+      "time_iso": "2025-11-08T21:41:13-04:00"
+    },
+    {
+      "city": "Aldie",
+      "reason": "Internet",
+      "time_human": "8 hours ago",
+      "time_iso": "2025-11-08T21:39:52-04:00"
+    },
+    {
+      "city": "Port Lavaca",
+      "reason": "Phone",
+      "time_human": "8 hours ago",
+      "time_iso": "2025-11-08T21:39:50-04:00"
+    },
+    {
+      "city": "Broomfield",
+      "reason": "Internet",
+      "time_human": "8 hours ago",
+      "time_iso": "2025-11-08T20:54:15-04:00"
+    },
+    {
+      "city": "Toledo",
+      "reason": "Internet",
+      "time_human": "9 hours ago",
+      "time_iso": "2025-11-08T20:35:30-04:00"
+    }
+  ],
+  "issues_reports": [
+    {
+      "user": "Jim Samuel",
+      "text": "@VZWSupport You can't even deliver good cell service. Why would anyone think you can do this?",
+      "time_iso": "2025-11-09T05:39:18-04:00"
+    },
+    {
+      "user": "Kyle Ryan",
+      "text": "The guy who narrates the Verizon commercials sounds an awful lot like @HiMyNameIsSeton @dpshow . Take a listen!",
+      "time_iso": "2025-11-09T05:39:14-04:00"
+    },
+    {
+      "user": "Michele Goncalves",
+      "text": "@Verizon @verizonfios Verizon worst customer service",
+      "time_iso": "2025-11-09T05:37:18-04:00"
+    },
+    {
+      "user": "Keri \ud83c\uddfa\ud83c\uddf8",
+      "text": "@VZWSupport No. I have a personal account. Your post popped up on my feed after an hour long argument with a Verizon guy trying convince me to pay more for my service to work. I saw your post, am still pissed, and commented. You ARE the same company, yes? You just do the business end.",
+      "time_iso": "2025-11-09T05:31:19-04:00"
+    },
+    {
+      "user": "Michele Goncalves",
+      "text": "@VerizonSupport horrible customer service. Representatives lie to consumers",
+      "time_iso": "2025-11-09T05:30:44-04:00"
+    },
+    {
+      "user": "#Fight For Trump",
+      "text": "@Verizon @metmuseum Do not use Verizon they are part of the problem use @PatriotMobile",
+      "time_iso": "2025-11-09T05:29:08-04:00"
+    },
+    {
+      "user": "Michele Goncalves",
+      "text": "@Verizon @verizonfios Worst customer service!!!!!",
+      "time_iso": "2025-11-09T05:28:11-04:00"
+    },
+    {
+      "user": "Wilson",
+      "text": "@comcast @Verizon Please help Darlington MD. Run lines through our little rural town so that we can get screwed over by a product that at least works. Vs getting screwed over by a product that does not. #freedarlingtonfromsatelitemonopolies #viasatsucks",
+      "time_iso": "2025-11-09T05:26:34-04:00"
+    },
+    {
+      "user": "\uff2a\uff41\uff43\uff51\uff55\uff45 \uff27\uff4f\uff4e\uff5a\uff41\uff4c\uff45\uff53",
+      "text": "@SarahMackAttack The Do Not Call list system doesn\u2019t help anymore.  I manually block them now.  And with Verizon they have a spam call thing you can enable that silences their calls when they come in.",
+      "time_iso": "2025-11-09T05:22:05-04:00"
+    },
+    {
+      "user": "slime jizzy\ud83e\udd61\ud83d\udc09",
+      "text": "@VZWSupport I  am not okay with having to pay for a device & service that I can\u2019t use. I\u2019m tired of playing phone tag with @Verizon and @AsurionCares. This is day 3 of deadened phone calls with you both.",
+      "time_iso": "2025-11-09T05:21:33-04:00"
+    },
+    {
+      "user": "Alexis Dawn",
+      "text": "@alrightabigail Thanks! I just looked it up and they don\u2019t have service in my area which stinks. It looks like I really only have Verizon and Optimum to choose from.",
+      "time_iso": "2025-11-09T05:17:43-04:00"
+    },
+    {
+      "user": "Prego",
+      "text": "@VZWSupport @The_R2D2 we are having the same problem in our office.  this is getting ridiculous that it hasnt been fixed yet",
+      "time_iso": "2025-11-09T05:17:27-04:00"
+    },
+    {
+      "user": "TheJAEffect",
+      "text": "Gotta love calling @VZWSupport with billing issues for the 4th time in a year due to an upgrade issue. First, it took 3 phone calls to get my bill right over an upgrade on my line... now they are charging me for my wife's old phone AND her new phone. Another call to try and fix.",
+      "time_iso": "2025-11-09T05:15:18-04:00"
+    },
+    {
+      "user": "Michele Goncalves",
+      "text": "Great representative was very helpful to have me cancel services but not lower the bill! Thanks Verizon!",
+      "time_iso": "2025-11-09T05:14:38-04:00"
+    },
+    {
+      "user": "Joe Boslin",
+      "text": "@VerizonSupport Is there is outage in the Boston area?",
+      "time_iso": "2025-11-09T05:12:43-04:00"
+    },
+    {
+      "user": "Nicole Molinari",
+      "text": "@VerizonSupport I can\u2019t login to the app or the website. This happens every time I try to log in!! Very frustrating and when I can I can\u2019t get through to a real person!",
+      "time_iso": "2025-11-09T05:10:58-04:00"
+    },
+    {
+      "user": "TheJAEffect",
+      "text": "I've worked in wireless, even selling Verizon phones for a while. Upgrading lines, especially when leasing the phone, isn't a hard process. But apparently Verizon just enjoys overcharging me so that they can hear my agitated voice every so often to try and fix it.",
+      "time_iso": "2025-11-09T05:08:27-04:00"
+    },
+    {
+      "user": "Jos\u00e9 De Nigris F.",
+      "text": "@jaketapper @jackmjenkins Well, they also used AT&T and Verizon mobile lines. Apple and Samsung phones. Levi\u2019s and Gap jeans. Home Depot and WalMart gear. Flew American Airlines and Delta. Stayed at Holiday Inn and Hilton. Ate at Burger King and Olive Garden. Used Waze and Google Maps...\n#Cancel all?",
+      "time_iso": "2025-11-09T05:07:10-04:00"
+    },
+    {
+      "user": "Justin",
+      "text": "@Jellysting_ Cell phone companies suck, I have Verizon and I remember about little over a year ago they had an outage for like almost a week, I called and said what are you gonna do to compensate me for being down so long.......they said we'll give you a 5$ dollar bill credit.....#smdh",
+      "time_iso": "2025-11-09T05:04:42-04:00"
+    },
+    {
+      "user": "Polish Mafia King",
+      "text": "@verizonsupport are there FIOS internet outages in zip 19446/19454/19486? I woke up today with no internet. ONT won\u2019t provide IP address or gateway. The FIOS app and automated support did not help me. Plus I can\u2019t get anyone to answer the phone. Please help!",
+      "time_iso": "2025-11-09T05:04:11-04:00"
+    },
+    {
+      "user": "Wes",
+      "text": "@VZWSupport Your website won't allow me to login, your app isn't work and my internet keeps dropping.",
+      "time_iso": "2025-11-09T05:00:14-04:00"
+    },
+    {
+      "user": "Michele Goncalves",
+      "text": "@VerizonSupport Horrible customer service experience",
+      "time_iso": "2025-11-09T04:58:50-04:00"
+    },
+    {
+      "user": "Alyssa walker",
+      "text": "@Rinkytone @tannerelectric It was pretty much all the towers being down. At&t didn\u2019t work in my car barely at all. And my cells are all Verizon and they didn\u2019t work at all either.",
+      "time_iso": "2025-11-09T04:56:43-04:00"
+    },
+    {
+      "user": "Chris Newsome",
+      "text": "@BenoffPatty @Verizon We\u2019ve been down since yesterday morning. No real answers. No communication from @Verizon - I\u2019m not actively looking for alternatives. Apparently they don\u2019t want our business.",
+      "time_iso": "2025-11-09T04:53:33-04:00"
+    },
+    {
+      "user": "Verizon Support",
+      "text": "@CallMeNaniii_ Providing excellent Customer Service is our highest priority. Autopay requires you to enroll using your My Verizon or My FiOS app or online account. Please check to see if this is true of your service payment method. Do you have cell phone or home internet service? *CCF",
+      "time_iso": "2025-11-09T04:53:16-04:00"
+    },
+    {
+      "user": "Karen Borglum",
+      "text": ".@Verizon Is it just me or is anyone else frustrated with this company's text tech support?",
+      "time_iso": "2025-11-09T04:47:28-04:00"
+    },
+    {
+      "user": "\ud835\udcc9\ud835\udc5c\ud835\udcc3\ud835\udcbe \ud835\udcc2\ud835\udcb6\ud835\udcc7\ud835\udcbe\ud835\udc52",
+      "text": "@SaveWinClub @ATT @Verizon I never had issues from att. Verizon however I had issues with their customer service on several occasions.",
+      "time_iso": "2025-11-09T04:46:57-04:00"
+    },
+    {
+      "user": "Glen Spurrier",
+      "text": "@Verizon So after 3 months of delay with my order. You want to cancel the order because of the delay (that you caused) - restart another order on a different \"offer\" & charge me $121.12 for a new order... that you screwed up in the first place. Are you F****ing kidding me?",
+      "time_iso": "2025-11-09T04:44:49-04:00"
+    },
+    {
+      "user": "Jos\u00e9 De Nigris F.",
+      "text": "@jaketapper @jackmjenkins Well, I am sure they also used AT&T and Verizon mobile lines. Cancel all?",
+      "time_iso": "2025-11-09T04:44:07-04:00"
+    },
+    {
+      "user": "Keri \ud83c\uddfa\ud83c\uddf8",
+      "text": "@VerizonBusiness I\u2019ve been with Verizon Wireless for years. Talked to them yesterday because I\u2019m having issues using my data when not connected to my internet. I was told I need to upgrade (and pay more) in order for it to work. I alteady pay $200 per month for 2 phones. WTF? Verizon SUCKS!",
+      "time_iso": "2025-11-09T04:43:53-04:00"
+    }
+  ],
+  "last_15_days_status": [
+    {
+      "location": "Philadelphia, PA",
+      "reports": 151
+    },
+    {
+      "location": "New York City, NY",
+      "reports": 145
+    },
+    {
+      "location": "Chicago, IL",
+      "reports": 99
+    },
+    {
+      "location": "Los Angeles, CA",
+      "reports": 98
+    },
+    {
+      "location": "Atlanta, GA",
+      "reports": 71
+    },
+    {
+      "location": "Oklahoma City, OK",
+      "reports": 55
+    },
+    {
+      "location": "Brooklyn, NY",
+      "reports": 54
+    },
+    {
+      "location": "Washington, D.C., DC",
+      "reports": 53
+    },
+    {
+      "location": "Phoenix, AZ",
+      "reports": 51
+    },
+    {
+      "location": "Las Vegas, NV",
+      "reports": 46
+    },
+    {
+      "location": "Dallas, TX",
+      "reports": 46
+    },
+    {
+      "location": "Ashburn, VA",
+      "reports": 44
+    },
+    {
+      "location": "Seattle, WA",
+      "reports": 44
+    },
+    {
+      "location": "Charlotte, NC",
+      "reports": 42
+    },
+    {
+      "location": "Boston, MA",
+      "reports": 36
+    },
+    {
+      "location": "Nashville, TN",
+      "reports": 36
+    },
+    {
+      "location": "Tulsa, OK",
+      "reports": 36
+    },
+    {
+      "location": "Sacramento, CA",
+      "reports": 36
+    },
+    {
+      "location": "Reston, VA",
+      "reports": 32
+    },
+    {
+      "location": "Baltimore, MD",
+      "reports": 30
+    },
+    {
+      "location": "Edmond, OK",
+      "reports": 29
+    },
+    {
+      "location": "Minneapolis, MN",
+      "reports": 28
+    },
+    {
+      "location": "Richmond, VA",
+      "reports": 27
+    },
+    {
+      "location": "Detroit, MI",
+      "reports": 26
+    },
+    {
+      "location": "Denver, CO",
+      "reports": 25
+    },
+    {
+      "location": "Buffalo, NY",
+      "reports": 25
+    },
+    {
+      "location": "Columbus, OH",
+      "reports": 25
+    },
+    {
+      "location": "Arlington, VA",
+      "reports": 23
+    },
+    {
+      "location": "Alexandria, VA",
+      "reports": 23
+    },
+    {
+      "location": "Tucson, AZ",
+      "reports": 22
+    }
+  ]
+}

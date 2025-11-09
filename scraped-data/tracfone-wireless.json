@@ -1,0 +1,347 @@
+{
+  "star_rating": {
+    "current": "2.62 out of 5",
+    "count": "1,608 ratings"
+  },
+  "chart": {
+    "chart_ts": "134071410000000000",
+    "image_src": "https://itsdcdn.com/us/charts/chartsvg/740/370/134071410000000000/76f9b29f-dd66-478d-9dd6-e23423c29b76.svg",
+    "alt_time": "11/09/2025 05:50"
+  },
+  "most_reported_problems": [
+    {
+      "label": "Phone",
+      "percent": 73
+    },
+    {
+      "label": "Internet",
+      "percent": 12
+    },
+    {
+      "label": "Total Blackout",
+      "percent": 6
+    },
+    {
+      "label": "E-mail",
+      "percent": 6
+    },
+    {
+      "label": "Wi-fi",
+      "percent": 3
+    }
+  ],
+  "latest_reports": [
+    {
+      "city": "Lakewood",
+      "reason": "Phone",
+      "time_human": "10 hours ago",
+      "time_iso": "2025-11-08T19:19:28-04:00"
+    },
+    {
+      "city": "Nazareth",
+      "reason": "Internet",
+      "time_human": "14 hours ago",
+      "time_iso": "2025-11-08T15:43:59-04:00"
+    },
+    {
+      "city": "Philadelphia",
+      "reason": "Total Blackout",
+      "time_human": "16 hours ago",
+      "time_iso": "2025-11-08T13:45:24-04:00"
+    },
+    {
+      "city": "Windham",
+      "reason": "Total Blackout",
+      "time_human": "2 days ago",
+      "time_iso": "2025-11-07T20:34:40-04:00"
+    },
+    {
+      "city": "Ahoskie",
+      "reason": "Phone",
+      "time_human": "2 days ago",
+      "time_iso": "2025-11-07T20:16:23-04:00"
+    },
+    {
+      "city": "Hampstead",
+      "reason": "Phone",
+      "time_human": "2 days ago",
+      "time_iso": "2025-11-07T18:50:43-04:00"
+    }
+  ],
+  "issues_reports": [
+    {
+      "user": "Scarlett Rayne, Sex Gremlin",
+      "text": "@Tracfone How about my account number so I can switch to the other carrier. You don't put my account number anywhere on the site from what I can tell and I need it so I can move my number over to @Mintmobile because I'm sick of the absurd rates you charge for terrible service",
+      "time_iso": "2025-11-09T05:42:45-04:00"
+    },
+    {
+      "user": "Constructing Postcapitalism",
+      "text": "@zhinxy_vs_media Still mostly do. I live in a wireless dead zone and work from home, and when I go into town I just want to get my business over with. I guess I should get some minutes for my old tracfone in case of an emergency.",
+      "time_iso": "2025-11-09T05:37:53-04:00"
+    },
+    {
+      "user": "E. Sapien",
+      "text": "@Tracfone your customer service sucks. You guys authorized a payment on an account that my card is not authorized for.",
+      "time_iso": "2025-11-09T05:37:30-04:00"
+    },
+    {
+      "user": "HowToPhil",
+      "text": "Hey @Tracfone \nWhy does there seem to be no live chat even though your help system says there's a live chat?",
+      "time_iso": "2025-11-09T05:35:45-04:00"
+    },
+    {
+      "user": "Mark Silver",
+      "text": "TRACFONE\nI am telling everyone NOT to go to Tracfone\nWhen you have a Problem, there is NO one there to a help you.\nThey give you a Link to Online Chat, then once you get there, there is NO link\nThere is a Phone number to call, when you call this number, a damn computer",
+      "time_iso": "2025-11-09T05:34:54-04:00"
+    },
+    {
+      "user": "Celeste GENERALSTRIKE Holms",
+      "text": "Samsung phones for TracFone & StraightTalk plans internet connection are akin to having cable in 1980s. You never know if you'll have connection.",
+      "time_iso": "2025-11-09T05:33:00-04:00"
+    },
+    {
+      "user": "Chelsea\ud83d\udc9c\ud83c\udf08",
+      "text": "I was told yesterday my phone would be here tomorrow or Saturday. \nNow I'm told my phone will be here on September30th\n@Tracfone you are not doing too well right now with me. Worst customer service. \nI was lied to",
+      "time_iso": "2025-11-09T05:32:18-04:00"
+    },
+    {
+      "user": "frecklefacemermaid. \ud83e\udddc\ud83c\udffd\u200d\u2640\ufe0f\ud83d\udc96",
+      "text": "@x_dubs Yes!!! and I\u2019m mad AF about it. 9pm hit and this **** turns into a tracfone\ud83d\ude12",
+      "time_iso": "2025-11-09T05:31:33-04:00"
+    },
+    {
+      "user": "CatholicBandito\ud83c\udff4\u2764\ufe0f\u200d\ud83d\udd25",
+      "text": "After the miracle with the Tracfone I said ok Jesus I don\u2019t understand but if she said she talked to me in NYC who am I to say she\u2019s a liar \n\nAt the time she didn\u2019t know she was pregnant. She just needed help paying for her cap and gown",
+      "time_iso": "2025-11-09T05:30:16-04:00",
+      "location": "Franconia, Virginia"
+    },
+    {
+      "user": "Tracy Krimmer, Author",
+      "text": "My dad\u2019s friend gave him a Tracfone. Now my dad is getting my mom one. I\u2019m glad they are ditching their super old phones (like old flip phones) but these phones are crap.",
+      "time_iso": "2025-11-09T05:28:41-04:00"
+    },
+    {
+      "user": "William Peterson",
+      "text": "@Verizon So, how long did I have no cell service last night? 1X signal quickly followed by \"Emergency Calls Only\" on primary and backup TracFone that uses Verizon around 0200 CDT, same until I restarted my phone around 0530.",
+      "time_iso": "2025-11-09T05:25:47-04:00"
+    },
+    {
+      "user": "the english sherpa",
+      "text": "Your customer service is ****, too, @Tracfone! If someone needs to chat with you online, the least you could do is acknowledge their existence. Good grief!",
+      "time_iso": "2025-11-09T05:22:38-04:00"
+    },
+    {
+      "user": "Awesome Awesomson",
+      "text": "@Tracfone Why is Tracfone Customer Service so terrible? Are you having trouble staffing? I know that's happening with a lot of companies. I can't even get the status of my ticket (1240935786). Is anyone still working there?",
+      "time_iso": "2025-11-09T05:16:38-04:00"
+    },
+    {
+      "user": "I_was_there_for_715",
+      "text": "Another day goes by, another day @TracFone fails to have a person who knows *ANYTHING* about their web site talk to me.  Do they like having terrible customer service?  Do they like having customers trash them on Twitter?  Do they like being known as:\n\n#TracFoneSucks?\n\nI guess so",
+      "time_iso": "2025-11-09T05:15:22-04:00"
+    },
+    {
+      "user": "James Paredes",
+      "text": "Having a difficult time with Tracfone. Have spent weeks and hours of air time trying to activate phone. Only thing that was done was my # of 14 YEARS was changed. i need help!",
+      "time_iso": "2025-11-09T05:15:22-04:00"
+    },
+    {
+      "user": "HowToPhil",
+      "text": "@Tracfone It sucks that you're a bot... That link does not actually bring up a chat.",
+      "time_iso": "2025-11-09T05:11:49-04:00"
+    },
+    {
+      "user": "The myth. The legend. The dumbass.",
+      "text": "Canceled my Tracfone auto-refill. My phone is no longer reading the SIM card anymore, it keeps saying no SIM card.. I've done all of the ways to fix it.",
+      "time_iso": "2025-11-09T05:08:36-04:00"
+    },
+    {
+      "user": "Proud deplorable/chump for Trump!",
+      "text": "@montaga @TMobile @Verizon tracfone--was with sprint/t mobile for almost 20 years.  would never use a major carrier again.",
+      "time_iso": "2025-11-09T05:07:29-04:00"
+    },
+    {
+      "user": "Jenny DeMiller Townsend",
+      "text": "SUBMIT or SEND. No way to Send the email. It vanished. I went to Twitter. My ZTE wouldn't let me tweet: horrid Gboard acting up. Had to tweet on Samsung. Both these androids will be retired from TracFone. No more lousy service plans from TracFone. But, after I ranted, sent,",
+      "time_iso": "2025-11-09T05:06:46-04:00"
+    },
+    {
+      "user": "I_was_there_for_715",
+      "text": "Why would @TracFone have a web site if they don't know how it works?  Why do they have \"customer service\" if those people don't know anything about their own web site?  WTF is wrong with @TracFone?\n\nYeah, #TracFoneSucks",
+      "time_iso": "2025-11-09T05:03:34-04:00"
+    },
+    {
+      "user": "Coolest",
+      "text": "@Weatheronthe8s This! I don\u2019t know why so many people look at TracFone as cheap and simple.\nThey use the ATT network, right?",
+      "time_iso": "2025-11-09T05:02:42-04:00"
+    },
+    {
+      "user": "Sun&Moon",
+      "text": "@AskStraightTalk Hey can I get some help? I wanted to know if my locked tracfone will work on your network?",
+      "time_iso": "2025-11-09T05:02:20-04:00"
+    },
+    {
+      "user": "CatholicBandito\ud83c\udff4\u2764\ufe0f\u200d\ud83d\udd25",
+      "text": "Knew of this new number b/c this was supposed to be a healing retreat\n\nI got a message from a mom in dire need on this Tracfone\n\nWe had met 3 years before outside the DC PP & I told her to call me if she ever needed help\n\nMy Tracfone # I had for a couple days was in her contacts",
+      "time_iso": "2025-11-09T05:00:32-04:00",
+      "location": "Franconia, Virginia"
+    },
+    {
+      "user": "harriet@Ilikepronouns",
+      "text": "@Tracfone Your convenience service is utterly worthless. How do you stay in business?",
+      "time_iso": "2025-11-09T04:59:42-04:00"
+    },
+    {
+      "user": "the english sherpa",
+      "text": "@Tracfone Well, you're doing a **** job because you get zero customer service satisfaction from me.",
+      "time_iso": "2025-11-09T04:58:16-04:00"
+    },
+    {
+      "user": "I_was_there_for_715",
+      "text": "Oh yeah, @TracFone still sucks",
+      "time_iso": "2025-11-09T04:54:16-04:00"
+    },
+    {
+      "user": "Scarlett Rayne, Sex Gremlin",
+      "text": "@Tracfone I've talked to support serval times and not got anywhere. I keep getting told my account numer is my IMEI, but mint says its wrong, so IDK what support is gonna do",
+      "time_iso": "2025-11-09T04:53:10-04:00"
+    },
+    {
+      "user": "Bobbie Steele",
+      "text": "@AnnieSage I bought a Tracfone from HSN in July. The speaker stopped working. Their site would not let me leave a review. I called 2 times. Couldn't bring myself to be rude to the tired sounding phone reps. We are all doing our best.",
+      "time_iso": "2025-11-09T04:52:00-04:00"
+    },
+    {
+      "user": "Ben",
+      "text": "Tracfone's commercial is just terribly constructed. Brats go bad - they're perishable, meaning they exactly are like minutes that expire.\n\nBad writing.",
+      "time_iso": "2025-11-09T04:51:42-04:00"
+    },
+    {
+      "user": "The myth. The legend. The dumbass.",
+      "text": "What a coincidence.. now my Tracfone says No Sim card again... after I shut it down for 1 minute and restarted.",
+      "time_iso": "2025-11-09T04:50:53-04:00"
+    }
+  ],
+  "last_15_days_status": [
+    {
+      "location": "Fort Bragg, CA",
+      "reports": 5
+    },
+    {
+      "location": "Portland, OR",
+      "reports": 2
+    },
+    {
+      "location": "Atlanta, GA",
+      "reports": 2
+    },
+    {
+      "location": "Ashburn, VA",
+      "reports": 2
+    },
+    {
+      "location": "Fresno, CA",
+      "reports": 2
+    },
+    {
+      "location": "San Francisco, CA",
+      "reports": 2
+    },
+    {
+      "location": "Baton Rouge, LA",
+      "reports": 2
+    },
+    {
+      "location": "Columbus, OH",
+      "reports": 2
+    },
+    {
+      "location": "Butler, PA",
+      "reports": 2
+    },
+    {
+      "location": "Lakewood, CA",
+      "reports": 1
+    },
+    {
+      "location": "Nazareth, PA",
+      "reports": 1
+    },
+    {
+      "location": "Philadelphia, PA",
+      "reports": 1
+    },
+    {
+      "location": "Windham, NH",
+      "reports": 1
+    },
+    {
+      "location": "Ahoskie, NC",
+      "reports": 1
+    },
+    {
+      "location": "Hampstead, NC",
+      "reports": 1
+    },
+    {
+      "location": "Kill Devil Hills, NC",
+      "reports": 1
+    },
+    {
+      "location": "Elizabeth City, NC",
+      "reports": 1
+    },
+    {
+      "location": "Bangor, ME",
+      "reports": 1
+    },
+    {
+      "location": "Phoenix, AZ",
+      "reports": 1
+    },
+    {
+      "location": "Angleton, TX",
+      "reports": 1
+    },
+    {
+      "location": "Chickasha, OK",
+      "reports": 1
+    },
+    {
+      "location": "Morgantown, PA",
+      "reports": 1
+    },
+    {
+      "location": "Winsted, CT",
+      "reports": 1
+    },
+    {
+      "location": "Gregory, SD",
+      "reports": 1
+    },
+    {
+      "location": "Carson City, NV",
+      "reports": 1
+    },
+    {
+      "location": "Sault Ste. Marie, MI",
+      "reports": 1
+    },
+    {
+      "location": "Westerly, RI",
+      "reports": 1
+    },
+    {
+      "location": "Willmar, MN",
+      "reports": 1
+    },
+    {
+      "location": "Williamsport, PA",
+      "reports": 1
+    },
+    {
+      "location": "Colorado Springs, CO",
+      "reports": 1
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "star_rating": {
+    "current": "2.42 out of 5",
+    "count": "109,244 ratings"
+  },
+  "chart": {
+    "chart_ts": "134071467000000000",
+    "image_src": "https://itsdcdn.com/us/charts/chartsvg/740/370/134071467000000000/14580771-1F35-4CE9-8DF7-998BE5605886.svg",
+    "alt_time": "11/09/2025 07:25"
+  },
+  "most_reported_problems": [
+    {
+      "label": "Internet",
+      "percent": 45
+    },
+    {
+      "label": "Phone",
+      "percent": 33
+    },
+    {
+      "label": "Wi-fi",
+      "percent": 10
+    },
+    {
+      "label": "Total Blackout",
+      "percent": 5
+    },
+    {
+      "label": "E-mail",
+      "percent": 4
+    },
+    {
+      "label": "TV",
+      "percent": 3
+    }
+  ],
+  "latest_reports": [
+    {
+      "city": "Owensboro",
+      "reason": "Internet",
+      "time_human": "57 minutes ago",
+      "time_iso": "2025-11-09T06:23:02-04:00"
+    },
+    {
+      "city": "Winchester",
+      "reason": "Internet",
+      "time_human": "an hour ago",
+      "time_iso": "2025-11-09T06:15:16-04:00"
+    },
+    {
+      "city": "Nolensville",
+      "reason": "Internet",
+      "time_human": "an hour ago",
+      "time_iso": "2025-11-09T05:37:02-04:00"
+    },
+    {
+      "city": "Garden Grove",
+      "reason": "Total Blackout",
+      "time_human": "2 hours ago",
+      "time_iso": "2025-11-09T05:19:52-04:00"
+    },
+    {
+      "city": "Nolensville",
+      "reason": "Internet",
+      "time_human": "3 hours ago",
+      "time_iso": "2025-11-09T04:12:08-04:00"
+    },
+    {
+      "city": "Atlanta",
+      "reason": "Internet",
+      "time_human": "3 hours ago",
+      "time_iso": "2025-11-09T03:46:00-04:00"
+    }
+  ],
+  "issues_reports": [
+    {
+      "user": "Felicia Edmon",
+      "text": "@ATT @att what didn\u2019t feel good is being scammed, how did they get my att account number my phone number. You should warn clients about scams when you issue reward cards. #idontfeelsafewithyourcompany #scammers #attinternetservices",
+      "time_iso": "2025-11-09T07:14:53-04:00"
+    },
+    {
+      "user": "Chris Hansen",
+      "text": "Hey @ATTHelp , my father-in-law has been trying to get internet service at his new house in Gainesville,FL for MONTHS. Runaround from local @ATTHelp store who said all was good then have ignored him. He\u2019s been a customer for more than FORTY years. Please make this right.",
+      "time_iso": "2025-11-09T07:13:24-04:00"
+    },
+    {
+      "user": "Jason Patt",
+      "text": "@ATT it is truly disappointing that you don\u2019t give your customer service team the tools they need to keep customers. After over 6-8 hours of my time being wasted I still now have to look into moving all@of my multiple phones and services to another carrier.",
+      "time_iso": "2025-11-09T07:12:27-04:00"
+    },
+    {
+      "user": "K.C.",
+      "text": "@SSOC_J @Xfinity @ATT **** is everyone's internet down, my **** just crashed mid smash lobby smh",
+      "time_iso": "2025-11-09T07:12:03-04:00"
+    },
+    {
+      "user": "Kawaii Babii",
+      "text": "@ATT I NEED HELP PAYING MY PHONE BILL ANS U GUYS DO NOT WORK WITH YOUR CUSTOMERS. THEY WILL CUT YOU OFF! SMFH!",
+      "time_iso": "2025-11-09T07:09:00-04:00"
+    },
+    {
+      "user": "Ben Gehle",
+      "text": "The @ATT arrangement with unreliable @brinkshome to take over ATT Digital Life service is a pure waste of time and money. Repeated no-show and day-of install cancels, constant unmet promises to call or resolve. DON'T DO IT.",
+      "time_iso": "2025-11-09T07:08:26-04:00"
+    },
+    {
+      "user": "RockRGI",
+      "text": "@ATT has got to be the absolute worst company for \"customer service\" over the past 2 days I have been put on hold going on 8 hours so far! Business account with lots of lines.",
+      "time_iso": "2025-11-09T07:00:15-04:00"
+    },
+    {
+      "user": "Admiral Lex \ud83d\udef3\u2693\ufe0f\u26f5\ufe0f",
+      "text": "Since #5GRollout my poops have been more torpedo shaped. I've called @ATTHelp but received limited support.",
+      "time_iso": "2025-11-09T07:00:06-04:00"
+    },
+    {
+      "user": "Holly Nichols (Scott)",
+      "text": "@ATT I have tried to get tech support to assist with a two-factor verification issue for the last 24 hours. The phone number that the code is routing to is a non-working number. No one can or will assist. No supervisor call back. Your customer service is awful.",
+      "time_iso": "2025-11-09T06:59:49-04:00"
+    },
+    {
+      "user": "RockRGI",
+      "text": "@ATTBusinessCare number was DM'd call if you want to help. but not much chance I will hear from anyone I am sure. 9 hours on hold yesterday and 2 today has proven how much @ATT cares about customers.",
+      "time_iso": "2025-11-09T06:58:12-04:00"
+    },
+    {
+      "user": "Not a Bot Bill",
+      "text": "@ATT Yup. We all know big corporations would never lie to us. \ud83d\udd95\ud83c\udffb",
+      "time_iso": "2025-11-09T06:54:34-04:00"
+    },
+    {
+      "user": "christy seals",
+      "text": "@ATT you keep holding my phone service hostage. Trying to cancel service. You wont let me speak to a person.  Computer only.  You want me to pay 400$ on a bill that has a zero balance.  I cannot get transferred to a live person.  Need help ASAP.",
+      "time_iso": "2025-11-09T06:51:44-04:00"
+    },
+    {
+      "user": "\ud83c\udfc6\ud83c\udf7e StylishChaos (OFFICIAL) \ud83c\udf7e\ud83c\udfc6",
+      "text": "\"It's survey time\" \n\nWhich company sucks the most?\n\n1) The one who had a pattern drawn for them to not cut into internet lines but still did.\n \n2) @ATT who is lazy and unprofessional as **** that claims they can't fix it for almost a week.",
+      "time_iso": "2025-11-09T06:49:57-04:00"
+    },
+    {
+      "user": "K.C.",
+      "text": "@SSOC_J @Xfinity @ATT If that's what it was they need to send notices about that **** smh",
+      "time_iso": "2025-11-09T06:49:44-04:00"
+    },
+    {
+      "user": "Manthan dudeja",
+      "text": "Just Switch from @ATT  to @Verizon  and This **** is worse than Att \ud83e\udd7a. Getting only 5 mbps. @VerizonSupport",
+      "time_iso": "2025-11-09T06:49:04-04:00"
+    },
+    {
+      "user": "maureen s",
+      "text": "Dear @ATT  your land line rates are thievery, your stock performance is dismal but if you ruin my vacation flight you\u2019ll be the worst.",
+      "time_iso": "2025-11-09T06:45:21-04:00"
+    },
+    {
+      "user": "Elle_Cool_J",
+      "text": "Reaching out to @ABCInvestigates to expose @ATT horrible business. Wrongfully charged, being disputed, service cut. Been dealing with @ATT for over 3 months to correct THEIR wrong, and supposedly no one can help. Reporting to BBB",
+      "time_iso": "2025-11-09T06:43:14-04:00"
+    },
+    {
+      "user": "\ud83c\udf38\ud83e\uddc1\u00a9\ufe0f\ud83c\udd7e\ufe0fU\u00ae\ufe0f\u271d\ufe0f\ud83e\uddc1\ud83c\udf38",
+      "text": "@ATT has the worst internet & I'm mad I don't even have a choice b/c of my location. I need a more discounted rate b/c why am I paying what I'm paying for service that never works properly? \ud83d\ude20\ud83d\ude10",
+      "time_iso": "2025-11-09T06:41:35-04:00"
+    },
+    {
+      "user": "Georgia: U.S. Army Veteran,, Gettr @GaArmyVet1",
+      "text": "@Uverse  When will you learn the customer is always right?",
+      "time_iso": "2025-11-09T06:33:01-04:00"
+    },
+    {
+      "user": "SIGINT",
+      "text": "@krisvancleave @ATT Upload is garbage\u2026",
+      "time_iso": "2025-11-09T06:30:57-04:00"
+    },
+    {
+      "user": "Scott Dolan",
+      "text": "Hey @att do you know the number for me to switch to @CoxComm ? AT&T is doing work in our neighborhood and broke internet. They say it\u2019s back up but me and a neighbor are still down, and support says we have to wait until tomorrow before they will work on it. It\u2019s unacceptable.",
+      "time_iso": "2025-11-09T06:29:34-04:00"
+    },
+    {
+      "user": "Marcella O'Reilly PhD",
+      "text": "@ATTHelp Hi guys, I waited to talk to a representative who didn't let me speak then he disconnected my call?? I was simply explaining my issue.",
+      "time_iso": "2025-11-09T06:26:54-04:00"
+    },
+    {
+      "user": "Linux",
+      "text": "@OnlyTrueCoolest @Terrell352 @ATT just stay tuned but Im still trying to find all and help out bassicly :)",
+      "time_iso": "2025-11-09T06:24:41-04:00"
+    },
+    {
+      "user": "LN",
+      "text": "@buzzmom3 @ATT Do you realize how many of us don\u2019t want to pay for ABC, CBS, NBC, MSNBC, CNN, NPR \u2026\n\nWhile we\u2019re at it can you help us expose the legacy print media and new services?\n\nYou have no awareness.",
+      "time_iso": "2025-11-09T06:23:52-04:00"
+    },
+    {
+      "user": "Issaquah Capital Partners",
+      "text": "Not sure which cloud service @hbomax use but its really bad.. Slow is an understatement.. If the service didn\u2019t come free with @ATT wireless plan, i\u2019d never pay for such poor service\u2026",
+      "time_iso": "2025-11-09T06:23:04-04:00"
+    },
+    {
+      "user": "Cindy Manley",
+      "text": "Thanks @ATT  I had to go stand in the street to get a signal.   It\u2019s 24\u00b0",
+      "time_iso": "2025-11-09T06:21:20-04:00"
+    },
+    {
+      "user": "Jayman",
+      "text": "@ATT Why is call roaming not working after I paid for the service?",
+      "time_iso": "2025-11-09T06:21:09-04:00"
+    },
+    {
+      "user": "Lt. Aldo Raine",
+      "text": "Worst possible service ever from @ATT . 10/10 do not recommend and once this fiasco is over I will not be using you any longer.",
+      "time_iso": "2025-11-09T06:16:39-04:00"
+    },
+    {
+      "user": "Brittany \u2649",
+      "text": "@TMobile @ATT @Verizon can y\u2019all just stop trying to make my service faster? Like it works, Really really good. What I can\u2019t afford to be any slower or more expensive is my business flights.\ud83e\udd1c\ud83e\udd1b",
+      "time_iso": "2025-11-09T06:16:31-04:00"
+    },
+    {
+      "user": "Daniel Sodden",
+      "text": "@ATT does the Moto G stylus 5G support C Band?",
+      "time_iso": "2025-11-09T06:15:39-04:00"
+    }
+  ],
+  "last_15_days_status": [
+    {
+      "location": "Dallas, TX",
+      "reports": 225
+    },
+    {
+      "location": "Charlotte, NC",
+      "reports": 212
+    },
+    {
+      "location": "Houston, TX",
+      "reports": 206
+    },
+    {
+      "location": "Atlanta, GA",
+      "reports": 162
+    },
+    {
+      "location": "Chicago, IL",
+      "reports": 146
+    },
+    {
+      "location": "Miami, FL",
+      "reports": 111
+    },
+    {
+      "location": "Orlando, FL",
+      "reports": 94
+    },
+    {
+      "location": "Los Angeles, CA",
+      "reports": 90
+    },
+    {
+      "location": "Alpharetta, GA",
+      "reports": 80
+    },
+    {
+      "location": "Wilmington, NC",
+      "reports": 79
+    },
+    {
+      "location": "Oklahoma City, OK",
+      "reports": 74
+    },
+    {
+      "location": "Indianapolis, IN",
+      "reports": 73
+    },
+    {
+      "location": "Fort Worth, TX",
+      "reports": 73
+    },
+    {
+      "location": "San Antonio, TX",
+      "reports": 63
+    },
+    {
+      "location": "Jacksonville, FL",
+      "reports": 56
+    },
+    {
+      "location": "Birmingham, AL",
+      "reports": 51
+    },
+    {
+      "location": "San Jose, CA",
+      "reports": 48
+    },
+    {
+      "location": "St. Louis, MO",
+      "reports": 47
+    },
+    {
+      "location": "Columbus, OH",
+      "reports": 43
+    },
+    {
+      "location": "Detroit, MI",
+      "reports": 43
+    },
+    {
+      "location": "Raleigh, NC",
+      "reports": 42
+    },
+    {
+      "location": "New Orleans, LA",
+      "reports": 37
+    },
+    {
+      "location": "Louisville, KY",
+      "reports": 34
+    },
+    {
+      "location": "Ashburn, VA",
+      "reports": 33
+    },
+    {
+      "location": "Seattle, WA",
+      "reports": 32
+    },
+    {
+      "location": "Memphis, TN",
+      "reports": 32
+    },
+    {
+      "location": "Phoenix, AZ",
+      "reports": 31
+    },
+    {
+      "location": "Sacramento, CA",
+      "reports": 31
+    },
+    {
+      "location": "Austin, TX",
+      "reports": 30
+    },
+    {
+      "location": "Marietta, GA",
+      "reports": 28
+    }
+  ]
+}

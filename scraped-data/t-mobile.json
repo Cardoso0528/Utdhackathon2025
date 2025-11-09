@@ -1,0 +1,374 @@
+{
+  "star_rating": {
+    "current": "2.58 out of 5",
+    "count": "72,771 ratings"
+  },
+  "chart": {
+    "chart_ts": "134071548000000000",
+    "image_src": "https://itsdcdn.com/us/charts/chartsvg/740/370/134071548000000000/D7B81605-B71B-4964-A423-6A1400E390C0.svg",
+    "alt_time": "11/09/2025 09:40"
+  },
+  "most_reported_problems": [
+    {
+      "label": "Internet",
+      "percent": 43
+    },
+    {
+      "label": "Phone",
+      "percent": 31
+    },
+    {
+      "label": "Total Blackout",
+      "percent": 11
+    },
+    {
+      "label": "Wi-fi",
+      "percent": 9
+    },
+    {
+      "label": "E-mail",
+      "percent": 3
+    },
+    {
+      "label": "TV",
+      "percent": 1
+    }
+  ],
+  "latest_reports": [
+    {
+      "city": "Steubenville",
+      "reason": "Internet",
+      "time_human": "41 minutes ago",
+      "time_iso": "2025-11-09T08:58:21-04:00"
+    },
+    {
+      "city": "Washington, D.C.",
+      "reason": "Internet",
+      "time_human": "an hour ago",
+      "time_iso": "2025-11-09T08:18:13-04:00"
+    },
+    {
+      "city": "Federal Way",
+      "reason": "Internet",
+      "time_human": "an hour ago",
+      "time_iso": "2025-11-09T08:18:05-04:00"
+    },
+    {
+      "city": "Cedar Hill",
+      "reason": "Total Blackout",
+      "time_human": "4 hours ago",
+      "time_iso": "2025-11-09T04:55:36-04:00"
+    },
+    {
+      "city": "Cedar Hill",
+      "reason": "Total Blackout",
+      "time_human": "6 hours ago",
+      "time_iso": "2025-11-09T02:52:13-04:00"
+    },
+    {
+      "city": "Seattle",
+      "reason": "Wi-fi",
+      "time_human": "7 hours ago",
+      "time_iso": "2025-11-09T02:21:44-04:00"
+    }
+  ],
+  "issues_reports": [
+    {
+      "user": "Pabla Emilia Escobar Gaviria",
+      "text": "@tmobile I haven\u2019t gotten service since this morning (im in Amsterdam) and I can\u2019t spend three+ days like this, I work from home you gotta help me please",
+      "time_iso": "2025-11-09T09:32:01-04:00"
+    },
+    {
+      "user": "Michael TC",
+      "text": "2/ solution.  So you'll have no data and no internet.  Very sad @TMobile had no contingency for this, like temporary issue of a hot spot with unlimited data until your router arrives.  Bad #CustomerExperience #customerservice and poor planning.",
+      "time_iso": "2025-11-09T09:31:42-04:00"
+    },
+    {
+      "user": "seven",
+      "text": "if i see one more goddamn T-Mobile ad i will lose my **** faster then tommy did",
+      "time_iso": "2025-11-09T09:29:26-04:00"
+    },
+    {
+      "user": "Kikyo Quinzel \u26e9\ud83d\udca3",
+      "text": "So apparently somebody else currently has my number and if I don\u2019t answer a call quick enough, it rings to that other person\u2019s phone. Wtf @TMobile",
+      "time_iso": "2025-11-09T09:29:11-04:00"
+    },
+    {
+      "user": "Gypsy Sam aka Pizza",
+      "text": "Just switched to @TMobile and so far the service is exceptional. The phones we got however, the @SamsungMobile  Galaxy A11 is one of the slowest phones I've used in a long time. \ud83d\ude14 I wish I could afford to upgrade but 2020 has sucked us dry.",
+      "time_iso": "2025-11-09T09:25:46-04:00"
+    },
+    {
+      "user": "Yasmine\ud83c\udf39",
+      "text": "T-Mobile ******* sucks now I hate it!",
+      "time_iso": "2025-11-09T09:23:44-04:00"
+    },
+    {
+      "user": "bri\u2661",
+      "text": "@grahamdallas17 for yearssssss I always used the same thing & out of no where they make me change them for whatever reason & I can never remember new things. hulu & my t-mobile app are the worst at always making me change shut. also my statefarm one too \ud83d\ude44",
+      "time_iso": "2025-11-09T09:22:29-04:00"
+    },
+    {
+      "user": "Michael Trombley",
+      "text": "AVOID @sprint WIRELESS and @TMobile \n\nCall Sprint wireless customer service and you get tmobile customer service and they cannot help you.  It just cycles!",
+      "time_iso": "2025-11-09T09:21:40-04:00"
+    },
+    {
+      "user": "\ud83d\udc51Nubiana\ud83d\udc51",
+      "text": "T-mobile needs to cut the **** with video calling only to other t-mobile customers.",
+      "time_iso": "2025-11-09T09:21:05-04:00"
+    },
+    {
+      "user": "Lanette",
+      "text": "@TMobile Just got off phone with @TMobileHelp customer service talking about what options I have with @Sprint Flex Lease now eligible for upgrade. \n\nSuper disappointed in options. \n\nIn that aspect, Sprint took care of this 20 year loyalty customer much better.",
+      "time_iso": "2025-11-09T09:18:45-04:00"
+    },
+    {
+      "user": "Carol Smith",
+      "text": "Hey @TMobile @TMobileHelp do you know how truly awful the process is with @Assurant and their employees?  Do you care how it reflects on your company?",
+      "time_iso": "2025-11-09T09:16:54-04:00"
+    },
+    {
+      "user": "strange rock 'n roller",
+      "text": "@TMobileHelp wow $20 to upgrade in the store but free online? Wish I would have known. Would have ordered the stupid phone to save money. Ya'll do nothing for existing customers",
+      "time_iso": "2025-11-09T09:16:27-04:00",
+      "location": "Kansas City, Kansas"
+    },
+    {
+      "user": "Robyn",
+      "text": "@TMobile soooo tested out your home internet which was a bust, returned it 22 days after I received it, and was sent to collections 4 days after missing the payment for the 20 days I used the service\u2014if you count 2GB service. #neverswitchingmywireless #disappointed",
+      "time_iso": "2025-11-09T09:06:19-04:00"
+    },
+    {
+      "user": "LNS",
+      "text": "@TMobileHelp I\u2019ve DMed before and was given the same answers I keep hearing over and over again, but with no real solution. We\u2019ve been told there\u2019s nothing anyone can do and we\u2019re basically SOL.",
+      "time_iso": "2025-11-09T09:05:30-04:00"
+    },
+    {
+      "user": "Stewart Jones",
+      "text": "@TMobile got an email about a $5 Dunkin\u2019 card, opened the app and it wasn\u2019t in there. Plz help.",
+      "time_iso": "2025-11-09T09:02:09-04:00"
+    },
+    {
+      "user": "Patty Urban",
+      "text": "@coralrae21 @TMobile This is why I love them. They canceled an entire bill for me once during a particularly difficult month financially. I\u2019ll never go anywhere else.",
+      "time_iso": "2025-11-09T09:01:56-04:00"
+    },
+    {
+      "user": "Gabby Weiser \u270c\ud83c\udffc",
+      "text": "flirting with my t-mobile customer service rep cause i\u2019m BoReD",
+      "time_iso": "2025-11-09T08:58:58-04:00",
+      "location": "Chandler, Arizona"
+    },
+    {
+      "user": "Shaun Tabua",
+      "text": "@tmobilehelp we are having a difficult time reaching our reps who have to help us get some devices for our school (Utah).",
+      "time_iso": "2025-11-09T08:54:05-04:00"
+    },
+    {
+      "user": "C\ud83d\udda4",
+      "text": "@xo_msval Can you pls lmk how you like the service?! I been wanting to make the change from T-Mobile to Verizon!",
+      "time_iso": "2025-11-09T08:49:55-04:00"
+    },
+    {
+      "user": "Anna Vanderlaan",
+      "text": "@sprint @TMobile The service is worse then ever.",
+      "time_iso": "2025-11-09T08:47:51-04:00"
+    },
+    {
+      "user": "Jennifer\ud83e\udd92",
+      "text": "Every since T-mobile and Sprint joined together my data has been terrible ....",
+      "time_iso": "2025-11-09T08:45:52-04:00"
+    },
+    {
+      "user": "Becca Ribbing",
+      "text": "@TMobileHelp is phone service down in Seattle? My calls keep dropping immediately upon first ring, but texting is working.",
+      "time_iso": "2025-11-09T08:43:40-04:00"
+    },
+    {
+      "user": "t baby.",
+      "text": "i\u2019m outside of the mall, sitting in the parking lot & i have 1 bar of service... wtf @TMobile \ud83d\ude44 i pay about $100 a month for this bs?!",
+      "time_iso": "2025-11-09T08:43:18-04:00"
+    },
+    {
+      "user": "Scottisme",
+      "text": "@Everett88BOI @Apple @TMobile Order online. That\u2019s one thing about Apple I hate is the store never go in unless you absolutely have to",
+      "time_iso": "2025-11-09T08:42:53-04:00"
+    },
+    {
+      "user": "Matt Fecteau",
+      "text": "Dear @TMobile, why did you get rid of your chat feature under contact and support? If you say because of COVID, that makes no sense (be forewarned).",
+      "time_iso": "2025-11-09T08:40:35-04:00"
+    },
+    {
+      "user": "macie",
+      "text": "@TMobile see this so you can fix your **** litterally worst customer service, worst service, shitty phones, employees treat me like I\u2019m 5",
+      "time_iso": "2025-11-09T08:39:39-04:00"
+    },
+    {
+      "user": "Pablo Lopez",
+      "text": "@TMobile your T-Mobile Tuesday app is down. Really..",
+      "time_iso": "2025-11-09T08:39:23-04:00"
+    },
+    {
+      "user": "macie",
+      "text": "@TMobile you give me such a headache, I have to go be a ***** to y\u2019all again bc my ******* PHONE I PAY 215$ A MONTH FOR DOESNT WORK OFF WIFI **** t mobile",
+      "time_iso": "2025-11-09T08:38:52-04:00"
+    },
+    {
+      "user": "Derek Weber",
+      "text": "@tstride @Apple Bonus I forgot to mention.  While T-Mobile is pretty good my work line is Verizon which seems to be the only game in town in many parts of the USA. If we find ourselves in one such area it can fail over to Verizon for data :)",
+      "time_iso": "2025-11-09T08:35:51-04:00"
+    },
+    {
+      "user": "D\u2019Matt \ud83e\udd76 \ud83e\uddca\u2744\ufe0f",
+      "text": "wth was the point of Tuesday today @TMobile  like fr. these Tuesdays lately been some MID. Damn can\u2019t spice it up even during holiday SZN?",
+      "time_iso": "2025-11-09T08:35:19-04:00"
+    }
+  ],
+  "company_posts": [
+    {
+      "url": "https://x.com/TMobileHelp/status/1987502637240226293",
+      "name": "T-Mobile Help",
+      "reply_context": "Replying to @McQuade30FPS",
+      "text": "Hi. I'm confident we can help you get connected while traveling internationally. Let's start here: https://t.co/lPgj2dMFn9. Please DM us where you're traveling and more about what's going on with your connection. We'll quickly find a resolution to stay connected. ^SharonBaca",
+      "timestamp": "2025-11-09T07:48:49-04:00"
+    },
+    {
+      "url": "https://x.com/TMobileHelp/status/1987501850979946859",
+      "name": "T-Mobile Help",
+      "reply_context": "Replying to @Lastmedic",
+      "text": "We can help with any device issues you're experiencing and make sure you have a working phone. Please DM us with your device IMEI, more about what's happening with your phone and account information. We'll work together to find the best solution for you to stay. ^SharonBaca",
+      "timestamp": "2025-11-09T07:45:41-04:00"
+    },
+    {
+      "url": "https://x.com/TMobileHelp/status/1987500899044909347",
+      "name": "T-Mobile Help",
+      "reply_context": "Replying to @Lastmedic",
+      "text": "Hi, I'm positive I can help you with your service or account questions right now and turn this around so you don't have to return your phones. Please DM us with more details about what's happening, device IMEI, and account info. We'll work fast to find a resolution. ^SharonBaca",
+      "timestamp": "2025-11-09T07:41:54-04:00"
+    }
+  ],
+  "last_15_days_status": [
+    {
+      "location": "Cedar Hill, TX",
+      "reports": 145
+    },
+    {
+      "location": "Chicago, IL",
+      "reports": 141
+    },
+    {
+      "location": "Seattle, WA",
+      "reports": 133
+    },
+    {
+      "location": "Minneapolis, MN",
+      "reports": 119
+    },
+    {
+      "location": "Dallas, TX",
+      "reports": 110
+    },
+    {
+      "location": "Atlanta, GA",
+      "reports": 92
+    },
+    {
+      "location": "Houston, TX",
+      "reports": 84
+    },
+    {
+      "location": "Charlotte, NC",
+      "reports": 82
+    },
+    {
+      "location": "Sacramento, CA",
+      "reports": 80
+    },
+    {
+      "location": "Eastpointe, MI",
+      "reports": 78
+    },
+    {
+      "location": "Los Angeles, CA",
+      "reports": 74
+    },
+    {
+      "location": "New York City, NY",
+      "reports": 63
+    },
+    {
+      "location": "Detroit, MI",
+      "reports": 62
+    },
+    {
+      "location": "Oklahoma City, OK",
+      "reports": 61
+    },
+    {
+      "location": "Philadelphia, PA",
+      "reports": 59
+    },
+    {
+      "location": "Orlando, FL",
+      "reports": 55
+    },
+    {
+      "location": "Pittsburgh, PA",
+      "reports": 45
+    },
+    {
+      "location": "St. Louis, MO",
+      "reports": 45
+    },
+    {
+      "location": "Memphis, TN",
+      "reports": 44
+    },
+    {
+      "location": "Jacksonville, FL",
+      "reports": 41
+    },
+    {
+      "location": "Austin, TX",
+      "reports": 39
+    },
+    {
+      "location": "Denver, CO",
+      "reports": 37
+    },
+    {
+      "location": "Phoenix, AZ",
+      "reports": 36
+    },
+    {
+      "location": "Indianapolis, IN",
+      "reports": 36
+    },
+    {
+      "location": "San Antonio, TX",
+      "reports": 35
+    },
+    {
+      "location": "San Leandro, CA",
+      "reports": 34
+    },
+    {
+      "location": "Portland, OR",
+      "reports": 34
+    },
+    {
+      "location": "Kansas City, MO",
+      "reports": 33
+    },
+    {
+      "location": "Ashburn, VA",
+      "reports": 31
+    },
+    {
+      "location": "Birmingham, AL",
+      "reports": 31
+    }
+  ]
+}

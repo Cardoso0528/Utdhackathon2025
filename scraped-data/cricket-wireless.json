@@ -1,0 +1,349 @@
+{
+  "star_rating": {
+    "current": "3.08 out of 5",
+    "count": "7,166 ratings"
+  },
+  "chart": {
+    "chart_ts": "134071410000000000",
+    "image_src": "https://itsdcdn.com/us/charts/chartsvg/740/370/134071410000000000/1f7f5bb1-01de-4ae1-a268-2b78b8ea84fd.svg",
+    "alt_time": "11/09/2025 05:50"
+  },
+  "most_reported_problems": [
+    {
+      "label": "Phone",
+      "percent": 63
+    },
+    {
+      "label": "Internet",
+      "percent": 21
+    },
+    {
+      "label": "Total Blackout",
+      "percent": 8
+    },
+    {
+      "label": "Wi-fi",
+      "percent": 4
+    },
+    {
+      "label": "E-mail",
+      "percent": 3
+    },
+    {
+      "label": "TV",
+      "percent": 1
+    }
+  ],
+  "latest_reports": [
+    {
+      "city": "Los Angeles",
+      "reason": "Phone",
+      "time_human": "12 hours ago",
+      "time_iso": "2025-11-08T17:41:07-04:00"
+    },
+    {
+      "city": "Grand Junction",
+      "reason": "Phone",
+      "time_human": "14 hours ago",
+      "time_iso": "2025-11-08T15:45:20-04:00"
+    },
+    {
+      "city": "Memphis",
+      "reason": "Phone",
+      "time_human": "15 hours ago",
+      "time_iso": "2025-11-08T14:42:27-04:00"
+    },
+    {
+      "city": "North Royalton",
+      "reason": "Internet",
+      "time_human": "2 days ago",
+      "time_iso": "2025-11-07T22:20:18-04:00"
+    },
+    {
+      "city": "Upland",
+      "reason": "Phone",
+      "time_human": "2 days ago",
+      "time_iso": "2025-11-07T15:19:26-04:00"
+    },
+    {
+      "city": "Upland",
+      "reason": "Internet",
+      "time_human": "2 days ago",
+      "time_iso": "2025-11-07T15:01:27-04:00"
+    }
+  ],
+  "issues_reports": [
+    {
+      "user": "toni \u2661",
+      "text": "@Cricketnation @YaOnlyLivvOnce NOT US ONLY ****",
+      "time_iso": "2025-11-09T05:40:55-04:00"
+    },
+    {
+      "user": "tyler",
+      "text": "@Cricketnation @YaOnlyLivvOnce I wanna win so bad! I gave away my Sasha M&G",
+      "time_iso": "2025-11-09T05:40:50-04:00"
+    },
+    {
+      "user": "Christine Hedrick",
+      "text": "@Cricketnation HELP! My daughter got a new phone today but instead of them connecting her number to it they connected my husbands number & now he can\u2019t use his phone at all . When I call his # it goes to her  phone .  We need this taken care of ASAP . He needs his phone 4 work",
+      "time_iso": "2025-11-09T05:40:35-04:00"
+    },
+    {
+      "user": "Rachael \ud83e\udd8b",
+      "text": "@woahalexabliss @Cricketnation It is I know how you feel I never knew about these M&G\u2019s until like end of last year but they changed it by then for America only which in my opinion is **** not right at all",
+      "time_iso": "2025-11-09T05:37:07-04:00"
+    },
+    {
+      "user": "Werelock",
+      "text": "@Cricketnation @CricketSupport And I can call customer support on it... so either it's my SIM card or just something simple on your end I'm hoping.  This was a birthday present to myself and I hate to say it, but I will swap providers to use it. What do I need to do?",
+      "time_iso": "2025-11-09T05:33:52-04:00"
+    },
+    {
+      "user": "Carol Pagel",
+      "text": "@RevMCraft @Cricketnation @CricketSupport I've been dealing with their nonsense for 5 days. We just moved to at&t and I SWORE I would never use them again. #lesseroftwoevils",
+      "time_iso": "2025-11-09T05:31:22-04:00"
+    },
+    {
+      "user": "Kayla McCurry",
+      "text": "@Cricketnation @YaOnlyLivvOnce I would love to meet her. I hope I\u2019m selected... but probably not since I don\u2019t have cricket service",
+      "time_iso": "2025-11-09T05:29:43-04:00"
+    },
+    {
+      "user": "olivia",
+      "text": "@Cricketnation thank you for not allowing either of my parents to use their cellphones. How are they supposed to contact family if there\u2019s an emergency? How is my father supposed to do his job as a boss when he can\u2019t reach other departments that are hours away? Hm?",
+      "time_iso": "2025-11-09T05:29:42-04:00"
+    },
+    {
+      "user": "Denny",
+      "text": "@Cricketnation @CricketSupport Why is service in the St Michael, Minnesota so slow?  This is as bad as dial-up.",
+      "time_iso": "2025-11-09T05:29:20-04:00"
+    },
+    {
+      "user": "AALIYAH",
+      "text": "@CricketSupport hello, i was trying to purchase more hotspot data because i ran out but the app is saying error because of pending order. how do i fix this??",
+      "time_iso": "2025-11-09T05:28:24-04:00"
+    },
+    {
+      "user": "alabama scanner",
+      "text": "@CricketSupport hi there I tried  everything  my internet  I'd so bad I can't  even watch a video",
+      "time_iso": "2025-11-09T05:28:16-04:00"
+    },
+    {
+      "user": "Tom Sherlock \u0930\u092e\u094d \u0930\u0941\u0935",
+      "text": "@CricketSupport :  Why are you blocking @NJTRANSIT text number:  69287?  @NJTRANSIT says it's your problem.",
+      "time_iso": "2025-11-09T05:24:46-04:00"
+    },
+    {
+      "user": "\u272f ben ahlotin \u272f",
+      "text": "@jsscmnly @sprint @Cricketnation Looks like I\u2019m switching. ATT is garbage too",
+      "time_iso": "2025-11-09T05:23:35-04:00"
+    },
+    {
+      "user": "Carol Pagel",
+      "text": "@Cricketnation I will post a CRICKET SUCKS post every hour until I get results.",
+      "time_iso": "2025-11-09T05:19:29-04:00"
+    },
+    {
+      "user": "Steve O",
+      "text": "Went to my local @Cricketnation store for a new phone case. Talked to the salesman about cases and @snydercut. That\u2019s customer service.",
+      "time_iso": "2025-11-09T05:13:08-04:00"
+    },
+    {
+      "user": "valerie Q stull",
+      "text": "@Mikehb681 @Cricketnation Do you have a stuttering problem? Why do you keep reposting the same damn tweet?",
+      "time_iso": "2025-11-09T05:13:03-04:00"
+    },
+    {
+      "user": "(\u2580\u033f\u0139\u032f\u2580\u033f \u033f)\u2620\ufe0fR.J.\u2620\ufe0f(\u0e07 \u0360\u00b0 \u035f\u0644\u035c \u0361\u00b0)\u0e07",
+      "text": "@YaOnlyLivvOnce @Cricketnation I swore it read \"@chickennation\"\n\nI'm like \"damn, sis about to do it with the whole farm\" \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+      "time_iso": "2025-11-09T05:12:17-04:00"
+    },
+    {
+      "user": "(Im)possible",
+      "text": "@NicoGomezLucer2 @Cricketnation @YaOnlyLivvOnce No problem, good luck!",
+      "time_iso": "2025-11-09T05:10:17-04:00"
+    },
+    {
+      "user": "Denny",
+      "text": "@CricketSupport Connection speeds here in St Michael, Mn as as bad as dial-up speeds.",
+      "time_iso": "2025-11-09T05:06:14-04:00"
+    },
+    {
+      "user": "Bergie",
+      "text": "@Cricketnation @CricketSupport I have a fully paid off iPhone 11 that I was told yesterday would be unlocked within 24 hours. It\u2019s been almost 36 hours and it\u2019s still locked even after support told me that, can someone please help me unlock this phone: thank you",
+      "time_iso": "2025-11-09T05:06:01-04:00"
+    },
+    {
+      "user": "(abigael voice) jordy",
+      "text": "@YaOnlyLivvOnce @Cricketnation I WANT TO MEET YOU SO BAD!!!! IM SO EXCITED",
+      "time_iso": "2025-11-09T05:02:57-04:00"
+    },
+    {
+      "user": "\ud83d\udc0auno",
+      "text": "@Cricketnation @YaOnlyLivvOnce Damn after I just left y'all \ud83d\ude2d",
+      "time_iso": "2025-11-09T05:02:05-04:00"
+    },
+    {
+      "user": "litty_mcguire",
+      "text": "Went from @sprint to @Cricketnation and holy **** is my phone fast now. And a quarter of the price. Why didn\u2019t I do this sooner??",
+      "time_iso": "2025-11-09T05:00:07-04:00"
+    },
+    {
+      "user": "Sanchez",
+      "text": "@Cricketnation I've now been on hold for 2 hours and 15 mins simply trying to activate a phone that I purchased from your store already. Are you guys still having pandemic issues? Please help.",
+      "time_iso": "2025-11-09T04:55:24-04:00"
+    },
+    {
+      "user": "Elaine Hennessy",
+      "text": "Ventured into the wild today. It\u2019s been a bit. Had to go to the @Cricketnation store because of a phone issue. Sales dude is running through numbers super quick like they do and I ask him to slow down because I have epilepsy and begin to explain why speed is an issue.",
+      "time_iso": "2025-11-09T04:55:14-04:00"
+    },
+    {
+      "user": "beeker",
+      "text": "@CricketSupport I'm having some major issues with your website and your app you app will not work and it's hard to even with your website help",
+      "time_iso": "2025-11-09T04:55:11-04:00"
+    },
+    {
+      "user": "Elaine Hennessy",
+      "text": "He tells me I need to \"calm down so we can figure it out.\u201d When he said this, I was calmly explaining how to make the process less triggering.\n@Cricketnation idk if \u201ccalm down\u201d is part of your training manual. If so, change it the way I will be changing my service.",
+      "time_iso": "2025-11-09T04:54:50-04:00"
+    },
+    {
+      "user": "Carol Pagel",
+      "text": "@Cricketnation it is a shame the way Cricket is treating their elderly customers. We have owned our phone and had service for over 6 years (not months) and they refuse to unlock our phone. Have spent HOURS on hold and promised return calls. CRICKET, YOU SUCK!",
+      "time_iso": "2025-11-09T04:52:56-04:00"
+    },
+    {
+      "user": "\ud83e\ude90\ud835\udc3f\ud835\udc52\ud835\udc5b\ud835\udc4e",
+      "text": "@fendihotti3 @Cricketnation @YaOnlyLivvOnce i know, she\u2019s literally the only one i\u2019ve been wanting to meet so bad\ud83e\udd27",
+      "time_iso": "2025-11-09T04:52:20-04:00"
+    },
+    {
+      "user": "David Bates",
+      "text": "@CricketSupport We are having serious data connection issues in Spring Hill, TN. I have sporadic issues inn other locations as well. I am not talking about just slow internet service, I'm talking about zero connectivity. My wife and I both have iPhones.  We need help please.",
+      "time_iso": "2025-11-09T04:51:45-04:00"
+    }
+  ],
+  "last_15_days_status": [
+    {
+      "location": "Pittsburgh, PA",
+      "reports": 7
+    },
+    {
+      "location": "Houston, TX",
+      "reports": 7
+    },
+    {
+      "location": "Chicago, IL",
+      "reports": 5
+    },
+    {
+      "location": "Charlotte, NC",
+      "reports": 4
+    },
+    {
+      "location": "Louisville, KY",
+      "reports": 4
+    },
+    {
+      "location": "Dallas, TX",
+      "reports": 4
+    },
+    {
+      "location": "New York City, NY",
+      "reports": 4
+    },
+    {
+      "location": "Crystal City, TX",
+      "reports": 4
+    },
+    {
+      "location": "Atlanta, GA",
+      "reports": 4
+    },
+    {
+      "location": "Saint Paul, MN",
+      "reports": 3
+    },
+    {
+      "location": "Tampa, FL",
+      "reports": 3
+    },
+    {
+      "location": "Reston, VA",
+      "reports": 3
+    },
+    {
+      "location": "San Antonio, TX",
+      "reports": 3
+    },
+    {
+      "location": "Portland, OR",
+      "reports": 3
+    },
+    {
+      "location": "Denver, CO",
+      "reports": 3
+    },
+    {
+      "location": "Kissimmee, FL",
+      "reports": 3
+    },
+    {
+      "location": "Seattle, WA",
+      "reports": 3
+    },
+    {
+      "location": "Andalusia, AL",
+      "reports": 3
+    },
+    {
+      "location": "Upland, CA",
+      "reports": 2
+    },
+    {
+      "location": "Katy, TX",
+      "reports": 2
+    },
+    {
+      "location": "Albany, NY",
+      "reports": 2
+    },
+    {
+      "location": "Washington, IN",
+      "reports": 2
+    },
+    {
+      "location": "Butler, PA",
+      "reports": 2
+    },
+    {
+      "location": "Odessa, TX",
+      "reports": 2
+    },
+    {
+      "location": "Rockport, TX",
+      "reports": 2
+    },
+    {
+      "location": "Hempstead, NY",
+      "reports": 2
+    },
+    {
+      "location": "Omaha, NE",
+      "reports": 2
+    },
+    {
+      "location": "Marquette, MI",
+      "reports": 2
+    },
+    {
+      "location": "Paragould, AR",
+      "reports": 2
+    },
+    {
+      "location": "Oklahoma City, OK",
+      "reports": 2
+    }
+  ]
+}

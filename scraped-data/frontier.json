@@ -1,0 +1,351 @@
+{
+  "star_rating": {
+    "current": "2.34 out of 5",
+    "count": "22,849 ratings"
+  },
+  "chart": {
+    "chart_ts": "134071410000000000",
+    "image_src": "https://itsdcdn.com/us/charts/chartsvg/740/370/134071410000000000/443BD3CC-8717-4586-9489-99703EF383BA.svg",
+    "alt_time": "11/09/2025 05:50"
+  },
+  "most_reported_problems": [
+    {
+      "label": "Internet",
+      "percent": 72
+    },
+    {
+      "label": "Phone",
+      "percent": 9
+    },
+    {
+      "label": "Total Blackout",
+      "percent": 8
+    },
+    {
+      "label": "Wi-fi",
+      "percent": 7
+    },
+    {
+      "label": "TV",
+      "percent": 3
+    },
+    {
+      "label": "E-mail",
+      "percent": 2
+    }
+  ],
+  "latest_reports": [
+    {
+      "city": "Winter Garden",
+      "reason": "Internet",
+      "time_human": "3 minutes ago",
+      "time_iso": "2025-11-09T05:44:28-04:00"
+    },
+    {
+      "city": "Detroit",
+      "reason": "Internet",
+      "time_human": "57 minutes ago",
+      "time_iso": "2025-11-09T04:50:15-04:00"
+    },
+    {
+      "city": "Covina",
+      "reason": "Internet",
+      "time_human": "2 hours ago",
+      "time_iso": "2025-11-09T03:30:05-04:00"
+    },
+    {
+      "city": "Bullhead City",
+      "reason": "Phone",
+      "time_human": "6 hours ago",
+      "time_iso": "2025-11-08T23:01:12-04:00"
+    },
+    {
+      "city": "North Port",
+      "reason": "Total Blackout",
+      "time_human": "9 hours ago",
+      "time_iso": "2025-11-08T19:55:14-04:00"
+    },
+    {
+      "city": "Sacramento",
+      "reason": "Total Blackout",
+      "time_human": "10 hours ago",
+      "time_iso": "2025-11-08T19:47:48-04:00"
+    }
+  ],
+  "issues_reports": [
+    {
+      "user": ":,",
+      "text": "@ThrillerMicJack @AskFrontier Yeah I think cus my **** is down to",
+      "time_iso": "2025-11-09T05:45:00-04:00"
+    },
+    {
+      "user": "Shola A",
+      "text": "@FrontierCorp My internet is out. The box has a red light at the internet signal. I have reboot to no avail. Please advise if this outage is in cerritos California",
+      "time_iso": "2025-11-09T05:44:07-04:00"
+    },
+    {
+      "user": "Anthony Karcz",
+      "text": "Day 3 of the @FrontierCorp outage in Sarasota and they've actually stopped giving helpful updates about what's going on and have reverted to \"we have top men working on the issue and can't tell you anything else\" So I guess find a Starbucks WFH folx.",
+      "time_iso": "2025-11-09T05:38:46-04:00"
+    },
+    {
+      "user": "Coach Zach",
+      "text": "@FrontierCorp So you won't say why or what the issue is... and that there is no timetable for this to be fixed? Could be days,  weeks, who knows.  Got it.  I think my employer can work with that \ud83d\ude11",
+      "time_iso": "2025-11-09T05:35:51-04:00"
+    },
+    {
+      "user": "Nathanial Fairman",
+      "text": "@FrontierCorp I just said that link doesn't work for me",
+      "time_iso": "2025-11-09T05:34:57-04:00",
+      "location": "Fruitville, Florida"
+    },
+    {
+      "user": "Nathanial Fairman",
+      "text": "@FrontierCorp You said it's been resolved, still out, sent me a link to chat that doesn't work and told me to call customer service. Been on hold for 30 minutes. Needless to say, your social media direct messaging system is awful. I've even out of internet since 2pm Wednesday.",
+      "time_iso": "2025-11-09T05:34:52-04:00",
+      "location": "Fruitville, Florida"
+    },
+    {
+      "user": "Joshua Gabriel",
+      "text": "@FrontierCorp internet is down with a blinking white eero. Need some help here. Is there an outage? I need to do some work. Fix it asap.",
+      "time_iso": "2025-11-09T05:33:53-04:00"
+    },
+    {
+      "user": "Nick Pratt",
+      "text": "Day 3 of @AskFrontier\u2019s service bring down in #Tampa. These guys are the worst. Time to bail out.",
+      "time_iso": "2025-11-09T05:30:08-04:00"
+    },
+    {
+      "user": "C.P",
+      "text": "@FrontierCorp \nPLEASE FOR THE LOVE OF @babyyodaaah \n\nFIX THE OUTAGE! It\u2019s BEEN 3 DAYS NOW!\n\nWE PAY FOR \u201cSERVICES\u201d that DO NOT EVEN WORK OR EXIST!",
+      "time_iso": "2025-11-09T05:30:00-04:00"
+    },
+    {
+      "user": "Breezy_2G \ud83e\udd54\ud83e\udd13",
+      "text": "@StevieTGaming_ @FrontierCorp \"Yes, the issue is that we had a fire in a central office and a lot of equipment got damaged either burned or wet, we have a lot of customers in the whole state impacted, and our technicians are working hard to have the service restored\u201d the \u201cupdate\u201d I got..3rd day of lies.",
+      "time_iso": "2025-11-09T05:29:20-04:00"
+    },
+    {
+      "user": "Breezy_2G \ud83e\udd54\ud83e\udd13",
+      "text": "@FrontierCorp Why? To get another set of lies. 3rd day in a row of saying it\u2019s one thing or another. Why not give a real update. If it\u2019s a DNS error or a DDOS tell us thatS not a power outage, cut fiber/power line or now there was a fire..",
+      "time_iso": "2025-11-09T05:26:58-04:00"
+    },
+    {
+      "user": "Breezy_2G \ud83e\udd54\ud83e\udd13",
+      "text": "@FrontierCorp \"Yes, the issue is that we had a fire in a central office and a lot of equipment got damaged either burned or wet, we have a lot of customers in the whole state impacted, and our technicians are working hard to have the service restored\u201d 3rd day of different lies\u2026",
+      "time_iso": "2025-11-09T05:25:58-04:00"
+    },
+    {
+      "user": "Feras Ghandour",
+      "text": "@HeyBeadGuy @FrontierCorp It's gotta be a cut line or (lines) that their whole infrastructure is down.\n\nJust giving us information like that and being transparent would at least make this a bit easier to handle. But no information is makes the frustration worse.",
+      "time_iso": "2025-11-09T05:20:13-04:00"
+    },
+    {
+      "user": "Jbird",
+      "text": "@shhaaaron @AskFrontier I just got off the phone with Frontier\u2026 they\u2019re long story short is everyone is still without service. No estimated time for it to be done",
+      "time_iso": "2025-11-09T05:17:53-04:00"
+    },
+    {
+      "user": "Nick Pratt",
+      "text": "@BalducciLele @FrontierCorp I bet Jay is a swell dude. To bad he works for a not so swell company.",
+      "time_iso": "2025-11-09T05:17:21-04:00"
+    },
+    {
+      "user": "Nick Pratt",
+      "text": "@FrontierCorp @ZachT_941 It\u2019s absolutely TERRIBLE. I\u2019ve been told 3 times this morning that the service in my area, Tampa Heights, has been restored and to unplug my equipment for 2-3 minutes. That should \u201cfix it.\u201d Nope. And how does that fix a cut fiber line @FrontierCorp? Sad sack of a provider.",
+      "time_iso": "2025-11-09T05:15:32-04:00"
+    },
+    {
+      "user": "C.P",
+      "text": "@FrontierCorp YOUR MONOPOLY OF COVERAGE IS A JOKE!\n\nYou \u201cCOVERAGE IS SOOOOO RELIABLE\u201d\n\nThat is a CONCEPT!\nLIKE A DRAWING OF PINOCCHIO! \nI\u2019m a real boy!\n(NOT)\n\nI DON\u2019T LIE\n(NOT)\nTHIS IS A SIMPLE OUTAGE\n(GTF out of here)\nThis is like asking people who failed math to take a test!",
+      "time_iso": "2025-11-09T05:15:12-04:00"
+    },
+    {
+      "user": "Nick Pratt",
+      "text": "@Hambone_Clown @FrontierCorp I\u2019ve been messaging @FrontierCorp and they told me the outage has been restored. Nope. It hasn\u2019t. Going on day 3 here and if it continues today I\u2019m sure it won\u2019t be fixed over the weekend.",
+      "time_iso": "2025-11-09T05:12:14-04:00"
+    },
+    {
+      "user": "Mark Jones",
+      "text": "@AskFrontier when emailing customers that have your service I frequently get warnings the email messages are delayed - seems to happen a lot with @frontier.com accounts.  Who can I contact to be sure our email server isn't being blocked?",
+      "time_iso": "2025-11-09T05:11:24-04:00"
+    },
+    {
+      "user": "Nick Pratt",
+      "text": "@shhaaaron @FrontierCorp @Le_Furreh Still down in Tampa Heights. They keep saying it\u2019s been resolved but it hasn\u2019t and somehow I have a service request in for 10 PM tomorrow when I never scheduled anything. Don\u2019t bother messaging them here. You\u2019re just talking to a bot.",
+      "time_iso": "2025-11-09T05:09:11-04:00"
+    },
+    {
+      "user": "C.P",
+      "text": "@FrontierCorp Now that\u2019s Customer Care",
+      "time_iso": "2025-11-09T05:08:51-04:00"
+    },
+    {
+      "user": "Breezy_2G \ud83e\udd54\ud83e\udd13",
+      "text": "@FrontierCorp No it hasn\u2019t been fully restored, upload speeds are not correct, your tech support won\u2019t send a new signal and they keep giving out blanket statements saying that theirs a multitude of issues. We need the truth and not lies each time we reach out.",
+      "time_iso": "2025-11-09T05:08:03-04:00"
+    },
+    {
+      "user": "Emily Emerson",
+      "text": "Why does frontier internet suck so bad?!!! @FrontierCorp",
+      "time_iso": "2025-11-09T05:04:55-04:00"
+    },
+    {
+      "user": "Feras Ghandour",
+      "text": "@HeyBeadGuy @FrontierCorp Worst part is, their whole outage system has no idea they have an outage. Their system tried to schedule a technician for me, and I'm like....ughhh...what does that matter if the line is cut.",
+      "time_iso": "2025-11-09T05:04:19-04:00"
+    },
+    {
+      "user": "Josh",
+      "text": "@emilyporterwv @FrontierCorp certainly @FrontierCorp must recognize the importance of their service to small business owners and be able to expedite a tech to you?",
+      "time_iso": "2025-11-09T05:02:07-04:00"
+    },
+    {
+      "user": "C.P",
+      "text": "@FrontierCorp SEND TECHS OUT!\n\n3 GOD DAMN DAYS OF NO HOME INTERNET!\nYour AUTOMATED SERVICES ARE A JOKE!\n\nAFFECTED Zip codes: SARASOTA, ST. PETE & TAMPA! (So far!)\n\nUR ROUTERS R FANCY *** PAPER WEIGHTS!\n@geteero can you help this fools get there **** together!",
+      "time_iso": "2025-11-09T04:49:25-04:00"
+    },
+    {
+      "user": "C.P",
+      "text": "@FrontierCorp Your saddened?! \n\nIs this what I\u2019m supposed to say when I no money to pay my mortgage!\n\nBc you will call them on my behave?! Right?! Since you have such amazing Customer CARE",
+      "time_iso": "2025-11-09T04:49:25-04:00"
+    },
+    {
+      "user": "Nathanial Fairman",
+      "text": "@shhaaaron @FrontierCorp I just got off the phone with tech support a little while ago. They had me reboot the ont box (mine is outside) for one minute. Yours might be in the garage. You have to uplug the power cord. When I did that I went back in and the router light was working and blue.",
+      "time_iso": "2025-11-09T04:47:36-04:00"
+    },
+    {
+      "user": "Nick Pratt",
+      "text": "@WFLA and @FOX13News are you guys going to cover the recent @FrontierCorp debacle? Internet down for 3 days with vague explanations and even their customer service line putting you on a silent hold only to be hung up on.",
+      "time_iso": "2025-11-09T04:46:33-04:00"
+    },
+    {
+      "user": "Hambone",
+      "text": "@FrontierCorp welp, We are at 9 hours into this outage.  No updates or information from this \"communication company\".... Terrible service!  Don't go with @FrontierCorp !! #smh",
+      "time_iso": "2025-11-09T04:46:07-04:00"
+    }
+  ],
+  "last_15_days_status": [
+    {
+      "location": "Tampa, FL",
+      "reports": 89
+    },
+    {
+      "location": "Dallas, TX",
+      "reports": 65
+    },
+    {
+      "location": "Orlando, FL",
+      "reports": 53
+    },
+    {
+      "location": "Los Angeles, CA",
+      "reports": 53
+    },
+    {
+      "location": "Indianapolis, IN",
+      "reports": 43
+    },
+    {
+      "location": "Houston, TX",
+      "reports": 38
+    },
+    {
+      "location": "Detroit, MI",
+      "reports": 20
+    },
+    {
+      "location": "Fort Worth, TX",
+      "reports": 18
+    },
+    {
+      "location": "Miami, FL",
+      "reports": 15
+    },
+    {
+      "location": "St. Louis, MO",
+      "reports": 13
+    },
+    {
+      "location": "Bradenton, FL",
+      "reports": 12
+    },
+    {
+      "location": "Chicago, IL",
+      "reports": 10
+    },
+    {
+      "location": "Plano, TX",
+      "reports": 8
+    },
+    {
+      "location": "Riverside, CA",
+      "reports": 8
+    },
+    {
+      "location": "San Antonio, TX",
+      "reports": 7
+    },
+    {
+      "location": "Sarasota, FL",
+      "reports": 7
+    },
+    {
+      "location": "Anaheim, CA",
+      "reports": 7
+    },
+    {
+      "location": "Pittsburgh, PA",
+      "reports": 7
+    },
+    {
+      "location": "Humble, TX",
+      "reports": 7
+    },
+    {
+      "location": "Rockwall, TX",
+      "reports": 7
+    },
+    {
+      "location": "Riverview, FL",
+      "reports": 6
+    },
+    {
+      "location": "San Jose, CA",
+      "reports": 6
+    },
+    {
+      "location": "Minneapolis, MN",
+      "reports": 6
+    },
+    {
+      "location": "Springfield, MO",
+      "reports": 6
+    },
+    {
+      "location": "Tyler, TX",
+      "reports": 6
+    },
+    {
+      "location": "Charlotte, NC",
+      "reports": 6
+    },
+    {
+      "location": "Austin, TX",
+      "reports": 5
+    },
+    {
+      "location": "Columbus, OH",
+      "reports": 5
+    },
+    {
+      "location": "St. Petersburg, FL",
+      "reports": 5
+    },
+    {
+      "location": "Long Beach, CA",
+      "reports": 5
+    }
+  ]
+}
