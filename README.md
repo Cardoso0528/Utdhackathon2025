@@ -1,45 +1,70 @@
-# T-Mobile Outage Monitor - UTD Hackathon 2025
+# T-Mobile Outage Monitor
 
-## Project Overview
+Real-time telecommunications outage monitoring dashboard with provider comparisons and sentiment analysis.
 
-A comprehensive real-time T-Mobile outage monitoring dashboard built for UTD Hackathon 2025. This application provides detailed service status tracking, provider comparisons, and analytics.
+## Tech Stack
+
+**Frontend:** React + TypeScript + Vite + Tailwind CSS + shadcn/ui  
+**Backend:** Python + FastAPI + BeautifulSoup + Crawl4AI + OpenAI  
+**Data:** Web scraping from istheservicedown.com
+
+## Setup
+
+### Frontend
+```bash
+cd Utdhackathon2025
+npm install
+npm run dev
+```
+
+### Backend
+```bash
+# Install dependencies (from Utdhackathon2025 directory)
+pip install .
+
+# Run FastAPI server
+python fastapi_server.py
+
+# Run scraper and analyzer
+python main.py
+```
 
 ## Features
 
-- **Dashboard**: Real-time outage monitoring with interactive visualizations
-- **T-Mobile Report**: Detailed analytics including:
-  - Key metrics (Internet Issues, Phone Outages, Blackouts, Wi-Fi Problems)
-  - Geographic hotspots
-  - Sentiment analysis with customer feedback
-  - Critical insights and recommendations
-  - Pain index scoring
-- **Provider Comparison**: Side-by-side comparison of T-Mobile against 8 major telecommunications providers
-
-## Technologies Used
-
-- **React** with TypeScript
-- **Vite** for fast development
-- **Tailwind CSS** for styling
-- **shadcn-ui** component library
-- **Lucide Icons**
-- **React Router** for navigation
-
-## Getting Started
-
-```sh
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
-```
+- **Dashboard**: Real-time outage monitoring with interactive charts
+- **T-Mobile Report**: Detailed metrics, geographic hotspots, sentiment analysis
+- **Provider Comparison**: Compare T-Mobile against 8 major telecom providers
+- **Analytics**: Pain index scoring, customer feedback insights
 
 ## Project Structure
 
-- `/src/pages/` - Main application pages (Index, TMobileReport, ComparisonPage)
-- `/src/components/` - Reusable UI components
-- `/src/data/` - JSON data files for outage reports and comparisons
-- `/public/` - Static assets including T-Mobile logo
+```
+├── Utdhackathon2025/       # React frontend
+│   ├── src/
+│   │   ├── components/      # UI components
+│   │   ├── pages/           # Route pages
+│   │   └── data/            # JSON data files
+├── webscrapper.py           # Web scraping logic
+├── analyse_insights.py      # OpenAI-powered analysis
+├── compare_tmob.py          # Provider comparison
+├── fastapi_server.py        # API server
+├── main.py                  # Main execution script
+├── scraped-data/            # Raw scraped data
+└── reports/                 # Generated analysis reports
+```
+
+## API Endpoints
+
+- `GET /analyze?service=<name>` - Analyze service and generate AI insights
+- `GET /compare_metrics` - Compare T-Mobile with other providers
+- `GET /check_report?filename=<name>` - Check if report exists
+- `GET /get_report?filename=<name>` - Retrieve specific report
+- `GET /get_scraped_data?filename=<name>` - Get raw scraped data
+- `GET /ensure_scraped_data?service=<name>` - Scrape fresh data for service
+- `DELETE /delete_report?filename=<name>` - Delete a report file
+
+## Requirements
+
+- Python 3.12+
+- Node.js 18+
+- OpenAI API key (for analysis features)
