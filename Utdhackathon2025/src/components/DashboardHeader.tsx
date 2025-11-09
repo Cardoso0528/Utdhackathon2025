@@ -15,7 +15,7 @@ export const DashboardHeader = () => {
   const [isComparing, setIsComparing] = useState(false);
   const [isChecking, setIsChecking] = useState(true);
 
-  // Check if files exist on mount and refresh
+  // Check if files exist on mount only
   useEffect(() => {
     const checkFiles = async () => {
       setIsChecking(true);
@@ -32,18 +32,24 @@ export const DashboardHeader = () => {
     };
 
     checkFiles();
-  }, [location.pathname]); // Refresh when navigating
+  }, []); // Only check on mount
 
   const handleGenerateReport = async () => {
     setIsGeneratingReport(true);
     try {
       await analyzeService("t-mobile");
-      setReportFileExists(true);
-      toast({
-        title: "Report Generated",
-        description: "T-Mobile report has been generated successfully.",
-      });
-      navigate("/tmobile-report");
+      // Verify the file was created before setting state
+      const reportExists = await checkReportExists("t-mobile.json");
+      if (reportExists) {
+        setReportFileExists(true);
+        toast({
+          title: "Report Generated",
+          description: "T-Mobile report has been generated successfully.",
+        });
+        navigate("/tmobile-report");
+      } else {
+        throw new Error("Report file was not created");
+      }
     } catch (error) {
       toast({
         title: "Error",
@@ -59,12 +65,18 @@ export const DashboardHeader = () => {
     setIsComparing(true);
     try {
       await compareMetrics();
-      setComparisonFileExists(true);
-      toast({
-        title: "Comparison Complete",
-        description: "Competitor comparison has been generated successfully.",
-      });
-      navigate("/comparison");
+      // Verify the file was created before setting state
+      const comparisonExists = await checkReportExists("comparison_tmobile.json");
+      if (comparisonExists) {
+        setComparisonFileExists(true);
+        toast({
+          title: "Comparison Complete",
+          description: "Competitor comparison has been generated successfully.",
+        });
+        navigate("/comparison");
+      } else {
+        throw new Error("Comparison file was not created");
+      }
     } catch (error) {
       toast({
         title: "Error",

@@ -26,9 +26,17 @@ def parse_datetime(raw):
     if not raw:
         return None
     try:
+        # Try ISO format first
         return datetime.fromisoformat(raw.replace("Z", "+00:00")).isoformat()
     except Exception:
-        return raw
+        try:
+            # Try parsing title format: "Wednesday, November 5, 2025 9:52 PM"
+            # Common formats: "%A, %B %d, %Y %I:%M %p" or "%A, %B %d, %Y %I:%M %p"
+            dt = datetime.strptime(raw, "%A, %B %d, %Y %I:%M %p")
+            return dt.isoformat()
+        except Exception:
+            # If all parsing fails, return raw value
+            return raw
 
 
 # ---------------------------------------------------------------------------
@@ -184,20 +192,30 @@ def parse_latest_reports(soup):
 def parse_issue_feed(soup):
     issues = []
     for li in soup.select("ul.reports > li"):
-        user = text(li.select_one("span.pseudolink"))
-        body = text(li.select_one("p span"))
+        # Get the first span.pseudolink (user name), not the one inside time span
+        pseudolinks = li.select("span.pseudolink")
+        user = text(pseudolinks[0]) if pseudolinks else None
+        
+        # Get text from p > span
+        p_tag = li.select_one("p")
+        body = text(p_tag.select_one("span")) if p_tag else None
+        
+        # Get time from time tag
         time_el = li.select_one("time")
-        time_iso = parse_datetime(attr(time_el, "datetime"))
+        time_iso = parse_datetime(attr(time_el, "datetime")) if time_el else None
+        
+        # Get location from city-link
         loc_el = li.select_one("a.city-link")
+        location = text(loc_el) if loc_el else None
+        
         entry = {
             "user": user,
             "text": body,
             "time_iso": time_iso,
         }
-        if loc_el:
-            loc_text = text(loc_el)
-            if loc_text:
-                entry["location"] = loc_text
+        if location:
+            entry["location"] = location
+        
         issues.append(entry)
     return issues
 
@@ -344,7 +362,13 @@ async def scrape_and_save(service_provider: str) -> dict:
     filename = f"{service_provider.lower()}.json"
     output_path = output_dir / filename
     
-    output_path.write_text(json.dumps(data, indent=2, ensure_ascii=True))
+    # Write the data to file
+    json_str = json.dumps(data, indent=2, ensure_ascii=True)
+    output_path.write_text(json_str)
+    
+    # Verify the write
+    issues_count = len(data.get("issues_reports", []))
+    print(f"[SAVE] Saved {issues_count} issues_reports to {output_path}")
     
     return data
 
