@@ -2,6 +2,10 @@
 
 Real-time telecommunications outage monitoring dashboard with provider comparisons and sentiment analysis.
 
+## System Workflow
+
+![System Workflow](./images/workflow.png)
+
 ## Tech Stack
 
 **Frontend:** React + TypeScript + Vite + Tailwind CSS + shadcn/ui  
