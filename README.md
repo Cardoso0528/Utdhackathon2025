@@ -4,7 +4,7 @@ Real-time telecommunications outage monitoring dashboard with provider compariso
 
 ## System Workflow
 
-![System Workflow](./images/workflow.png)
+![System Workflow](./images/workflow1.png)
 
 ## Tech Stack
 
